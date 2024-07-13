@@ -19,7 +19,8 @@ const Map = () => {
 
   const handleSearch = async () => {
     try {
-      const response = await axios.get(`http://localhost:3001/api/locations/${selectedCountry}`);
+      // const response = await axios.get(`http://localhost:3001/api/locations/${selectedCountry}`);
+      const response = await axios.get(`https://historic-be.onrender.com/api/locations/${selectedCountry}`);
       setLocations(response.data);
     } catch (error) {
       console.error('Error fetching locations:', error);

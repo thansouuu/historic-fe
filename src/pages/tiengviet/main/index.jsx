@@ -6,6 +6,15 @@ const Main = () => {
         "https://via.placeholder.com/1200x300?text=Slide+1",
         "/public/images/food-0.jpg",
         "https://via.placeholder.com/1200x300?text=Slide+3",
+        "https://via.placeholder.com/1200x300?text=Slide+1",
+        "/public/images/food-0.jpg",
+        "https://via.placeholder.com/1200x300?text=Slide+3",
+        "https://via.placeholder.com/1200x300?text=Slide+1",
+        "/public/images/food-0.jpg",
+        "https://via.placeholder.com/1200x300?text=Slide+3",
+        "https://via.placeholder.com/1200x300?text=Slide+1",
+        "/public/images/food-0.jpg",
+        "https://via.placeholder.com/1200x300?text=Slide+3",
     ];
 
     useEffect(() => {

@@ -995,7 +995,8 @@ const Product = memo(() => {
                     {showInfos && (
 
                         <div className="mt-4">
-                            gdfbd
+                            <p>asacdcdds</p>
+                            
                             {
                                 data?.data?.fullname
                             }
