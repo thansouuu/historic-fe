@@ -19,7 +19,10 @@ const FeedbackCard = ({ item }) => {
     }
 
     return (
-        <div className="flex items-start gap-2">
+        <div className={cn(
+            'flex gap-2',
+            `${isShow ? 'items-start' : 'items-center'}`
+        )}>
             <BorderRank role={item?.createdBy?.role} size={100}>
                 <div className="w-[40px] h-[40px] rounded-full border-[4px] border-gray-700 overflow-hidden mx-auto flex items-center justify-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                     <img src={item.createdBy.avatar} alt="user-avatar" className="w-full h-full object-cover" />
