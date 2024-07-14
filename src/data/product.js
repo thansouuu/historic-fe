@@ -1447,7 +1447,7 @@ export default [
         figureId: 2,
         data: [
             {
-                id: '1',
+                id: '5',
                 imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/Ch%C3%B9a%20%C3%94%20M%E1%BB%8Bch/1%20-%20TQ.jpg',
                 video: 'https://www.youtube.com/embed/41RDoC8FX8k?list=PL7JhOAXjuOP0OAe85eGjvVPBLflVI9wMt',
                 title: 'Chùa Ô Mịch',
@@ -1767,7 +1767,7 @@ export default [
                 ],
             },
             {
-                id: '2',
+                id: '6',
                 imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/Ch%C3%B9a%20Can%20Snom/1%20-%20TQ.webp',
                 video: 'https://www.youtube.com/embed/uBDslq-aZKo?list=PL7JhOAXjuOP0OAe85eGjvVPBLflVI9wMt',
                 title: 'Chùa Can Snom',
@@ -2063,7 +2063,7 @@ export default [
                 ],
             },
             {
-                id: '3',
+                id: '7',
                 imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/C%C3%B9%20lao%20T%C3%A2n%20Quy/1-TQ%20start.jpg',
                 video: 'https://www.youtube.com/embed/MUbvjYCdtZk?list=PL7JhOAXjuOP0OAe85eGjvVPBLflVI9wMt',
                 title: 'Cù lao Tân Quy',
@@ -2250,7 +2250,7 @@ export default [
                 ],
             },
             {
-                id: '4',
+                id: '8',
                 imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/Ao%20B%C3%A0%20Om/1.jpg',
                 video: 'https://www.youtube.com/embed/DXN6x4l9Zgg?list=PL7JhOAXjuOP0OAe85eGjvVPBLflVI9wMt',
                 title: 'Ao Bà Om',
@@ -2452,7 +2452,7 @@ export default [
         figureId: 3,
         data: [
             {
-                id: '1',
+                id: '9',
                 imageCover: 'https://buhkhkt.github.io/CHINH/b%C3%A1nh%20canh%20th%C6%B0%E1%BB%9Fng%20th%E1%BB%A9c%204.jpg',
                 video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
                 title: 'Bún nước lèo',
@@ -2766,7 +2766,7 @@ export default [
                 ],
             },
             {
-                id: '2',
+                id: '10',
                 imageCover: 'https://buhkhkt.github.io/CHINH/b%C3%A1nh%20canh%20th%C6%B0%E1%BB%9Fng%20th%E1%BB%A9c%204.jpg',
                 video: 'https://www.youtube.com/embed/Q3BrfMOITkE?list=PLO4xYQBA1oxVDRzXzjLUPhnlEC5JMx628',
                 title: 'Bánh canh Bến Có',
@@ -2925,7 +2925,7 @@ export default [
                 ],
             },
             {
-                id: '3',
+                id: '11',
                 imageCover: 'https://buhkhkt.github.io/CHINH/b%C3%A1nh%20canh%20th%C6%B0%E1%BB%9Fng%20th%E1%BB%A9c%204.jpg',
                 video: 'https://www.youtube.com/embed/lEnyxytD8kU?list=PLO4xYQBA1oxVCO7kROjhPy_Y2QU7Yep49',
                 title: 'Bánh tét Trà Cuôn',
@@ -3307,6 +3307,1191 @@ export default [
                             {
                                 type: 'text',
                                 value: `- Bánh tét nếu bảo quản ở nhiệt độ phòng chỉ có thể đảm bảo tầm 1-2 ngày. Để có thể giữ được chất lượng bánh tét sau khi mua về nhà, bạn có thể bảo quản bánh ở ngăn mát tủ lạnh. Đối với cách này, bạn có thể bảo quản bánh từ 3-4 ngày. Ngoài ra, bạn có thể cho bánh tét lên ngăn đông của tủ lạnh, bảo quản được tới 6 tháng. Khi ăn bạn có thể rã đông và hấp cách thủy là có thể thưởng thức ngay. Với cách bảo quản này, bạn sẽ không lo bánh sẽ bị hư, chua khi ăn không kịp.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+        ]
+    },
+    {
+        figureId: 4,
+        data: [
+            {
+                id: '12',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/I-1.jpg',
+                video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
+                title: 'Lễ hội cúng biển Mỹ Long',
+                description: 'Lễ hội cúng biển Mỹ Long (hay còn gọi là lễ hội Nghinh Ông) là một nét văn hoá đặc trưng của ngư dân...',
+                contents: [
+                    {
+                        title: 'Giới thiệu chung',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/I-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/I-2.jpg',
+                                ],
+                            },
+                            
+                            {
+                                type: 'text',
+                                value: `- Lễ hội cúng biển Mỹ Long (hay còn gọi là lễ hội Nghinh Ông) là một nét văn hoá đặc trưng của ngư dân vùng biển thị trấn Mỹ Long, huyện Cầu Ngang, tỉnh Trà Vinh. Lễ hội được tổ chức hàng năm từ ngày mùng 10-12/5 âm lịch.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử và ý nghĩa',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Vị trí nguồn gốc:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-1-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-1-2.jpg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Mỹ Long, còn có tên gọi dân gian là Bến Đáy, vốn là ngôi làng nhỏ ven cửa biển Cung Hầu - một trong 9 cửa của sông Cửu Long. Nhờ vị trí địa lý thuận lợi, vùng biển Mỹ Long là một trong những địa điểm sớm hội tụ cư dân nhiều nơi đến định cư, lập nghiệp. Khoảng thế kỷ XVI – XVII, các thế hệ ngư dân từ các tỉnh ven biển Nam Trung bộ di cư vào, trên bước đường Nam tiến họ mang theo hành trang văn hóa bản địa, trong đó có tín ngưỡng thờ cúng cá voi, còn gọi là Đức ông Nam Hải. `,
+                            },
+                            {
+                                type: 'text',
+                                value: `* Truyền thuyết:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-2-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-2-4.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Đối với người đi biển, Cá voi là vị phúc thần hóa thân từ chiếc áo cà sa của đức Phật, được đức Phật giao sứ mạng tuần tra và sẵn sàng ra tay cứu giúp khi có tàu thuyền không may lâm nạn giữa gió to sóng dữ. Tương truyền, khi chúa Nguyễn Ánh bị nghĩa quân Tây Sơn truy đuổi đến bờ nam cửa biển Cung Hầu thì Cá voi nổi lên, đưa ngài cùng đám tàn quân vượt sóng sang bờ cù lao Cổ Chiên an toàn. Sau khi lên ngôi, vua Gia Long đã ban sắc phong cho Cá voi là Quốc gia Nam Hải Cự tộc Ngọc lân chi thần hay còn gọi là Nam Hải Đại tướng quân, được ngư dân các làng ven biển tôn thờ. Khi đức Ông lỵ (tức Cá voi chết) và dạt vào bờ, ngư dân sở tại có nhiệm vụ phải tổ chức tang lễ, sau đó dựng lăng đưa di cốt vào thờ. Ngày giỗ đức Ông trở thành ngày hội của làng.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `* Lễ cúng biển:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-3-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-3-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-3-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-3-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/II-3-5.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Do cửa biển Cung Hầu tại thị trấn Mỹ Long là bãi bồi phù sa nên trong lịch sử, chưa từng được đức Ông lỵ nên không có lăng Ông và cũng chẳng có ngày giỗ Ông để làng chài mở hội. Với niềm tin sẵn có, mỗi năm cứ đến lệ tháng Năm âm lịch là cả làng nghề đáy biển Mỹ Long giong thuyền sang cù lao Cổ Chiên, bên kia cửa biển Cung Hầu, bày tỏ lòng thành tế tự cùng người dân địa phương. Cửa biển rộng nhiều gió to sóng dữ, cộng thêm chiến tranh loạn lạc, việc đi lại khó khăn nguy hiểm nên dần dần ngư dân Mỹ Long cung thỉnh linh vị đức Ông về phối tự tại ngôi miễu Bà Chúa Xứ vừa xây dựng giữa làng chày Bến Đáy. Từ cuối thập niên 1920, lễ hội Cúng biển hay lễ hội Nghinh ông Mỹ Long chính thức được tiến hành long trọng và duy trì cho đến ngày nay.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Lễ hội Cúng biển Mỹ Long là sự tổng hợp ở mức độ cao của lễ hội Kỳ Yên (tín ngưỡng thờ Thần Thành hoàng), lễ hội Vía Bà (tín ngưỡng thờ Mẫu) và lễ hội Nghinh Ông (tín ngưỡng thờ Đức ông Nam Hải). Đây chính là nét đặc sắc mà không lễ hội cúng biển nào từ Trung Bộ vào Nam Bộ có được.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Các nghi thức chính',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Các nghi thức chính:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-1-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-1-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-1-3.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Lễ cúng biển được chia ra làm 6 nghi thức chính gồm: Đi nghinh Nam Hải bằng ghe biển, chánh tế, giỗ tiên chức, chánh tế bà Chúa, tống tàu ra khơi, đi nghinh ngũ phương. Cùng với những nghi thức được tiến hành theo truyền thống, lễ cúng biển Mỹ Long còn có rất nhiều trò chơi phục vụ cho nhu cầu giải trí của ngư dân như biểu diễn văn nghệ, đi cà kheo, thi đấu thể thao,... tạo nên một không khí vui tươi trong những ngày lễ hội. Mỗi nghi thức đều có tầm quan trọng riêng, song nghinh ngũ phương và tống tàu ra khơi là một trong những nghi thức thu hút sự quan tâm của nhiều du khách nhất.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `* Đi nghinh ngũ phương:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-2-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-2-3.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Nghi thức Nghinh ngũ phương được tiến hành vào buổi sáng ngày 12 tháng Năm âm lịch. Từ trung tâm ngôi miếu Bà Chúa Xứ, đoàn người hóa trang giống như khi Nghinh ông chiều hôm trước cùng đoàn lân, dàn nhạc và nhiều dân làng bổn hội hình thành đám rước qua các xóm dân cư vòng quanh thị trấn. Trên đường đi, đám rước sẽ nhận gạo muối, giấy tiền vàng bạc của người dân từ các bàn hương án cho vào bàn nghinh, hàm ý gom hết bao điều xui rủi, tai ương, dịch bệnh để làng xóm được bình an, sức khỏe dồi dào cho mùa đi biển mới.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `* Nghi thức sống tàu:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-3-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-3-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-3-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-3-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/III-3-5.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Theo quan niệm của những ngư dân làm nghề đi biển thì nghi thức tống tàu (hay còn gọi là tống quái) sẽ giúp họ xua đuổi đi mọi điều xui rủi, tai ương và cầu mong về những vụ mùa mới công việc đánh bắt thuận lợi, có nhiều tôm cá; ước mong biển cả sẽ che chở và ủng hộ những ngư dân luôn một lòng thủy chung với biển sẽ có được cuộc sống ấm no, sung túc nơi làng nghề xứ biển.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Để chuẩn bị cho nghi thức tống tàu, hằng năm, người dân đều đóng mới 1 chiếc tàu có ghi rõ số hiệu và số năm trên thân tàu. Chiếc tàu được người dân chuẩn bị khá kỳ công trước đó, với một đội hình từ 4 – 5 người có kinh nghiệm đóng tàu thực hiện. Sau khi chiếc tàu hoàn thành, người dân sẽ trang trí với màu sắc sặc sỡ và bày biện đủ các lễ vật lên tàu.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Tống tàu cũng nghi thức cuối cùng khép lại lễ hội cúng biển, lễ tống tàu thường bắt đầu diễn ra vào khoảng 9h - 12h ngày 12/05  m lịch. Nhiều lễ vật, trong đó phải có con heo trắng, cùng hương đăng, trà rượu, hoa quả, gạo muối, vàng mã, có những hình nhân tài công, ngư phủ được đặt lên một chiếc tàu nhỏ, trang trí rực rỡ. Sau đó, chiếc tàu này được người dân kéo ra khơi, khi ra đến vị trí đã Nghinh Ông hôm qua, chiếc thuyền chở lễ vật này được cắt dây thả trôi trên biển, mang theo bao ước vọng của ngư dân gửi gắm vào biển cả.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Tính chất và công nhận',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/IV-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20bi%E1%BB%83n%20M%E1%BB%B9%20Long/IV-2.jpg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Lễ hội cúng biển là lễ hội văn hoá dân gian đặc sắc của ngư dân miền biển để tạ ơn biển cả, cầu cho trời yên biển lặng, mưa thuận gió hoà, mong muốn vụ mùa bội thu, đầy ắp tôm cá. Lễ hội còn mang tính chất tạ ơn cá Voi (cá Ông) mà ngư dân nơi đây thường gọi là ông Nam Hải đã cứu giúp ngư dân vượt qua sóng to gió lớn mỗi khi gặp bão trên biển. Lễ hội cúng biển Mỹ Long được công nhận là Di sản văn hoá phi vật thể cấp quốc gia vào năm 2013.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '13',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/I-1.jpg',
+                title: 'Lễ hội cúng Ông Bổn huyện Cầu Kè',
+                description: 'Lễ hội cúng Ông Bổn huyện Cầu Kè diễn ra từ ngày 25-28/7 âm lịch, tại thị trấn Cầu Kè, địa điểm chính ...',
+                contents: [
+                    {
+                        title: 'Giới thiệu chung',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/I-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/I-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/I-3.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: ` - Lễ hội cúng Ông Bổn huyện Cầu Kè diễn ra từ ngày 25-28/7 âm lịch, tại thị trấn Cầu Kè, địa điểm chính là Vạn Niên Phong Cung hay còn gọi là 29 Chùa Chợ (vì gần chợ Cầu Kè) tọa lạc tại khóm 1. Đây là lễ hội truyền thống của cộng đồng người Hoa ở Trà Vinh.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Cách làm Bánh canh Bến Có',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Ông Bổn và các chùa thờ:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-1-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-1-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-1-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-1-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-1-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-1-6.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-1-7.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Ông Bổn mà đồng bào người Hoa ở Cầu Kè tôn thờ là bốn anh em kết nghĩa, tương truyền có công đưa thế hệ Triều Châu đầu tiên di cư đến vùng đất ven sông Hậu, giúp họ lập nghiệp, ổn định cuộc sống ở vùng đất mới và dạy họ giữ gìn thuần phong mỹ tục. Trong đó, Minh Ðức Cung (Chùa Giồng Lớn, xã Hoà Ân) thờ ông Nhất; Vạn Ứng Phong Cung (Chùa Giữa, xã Hoà Ân) thờ ông Nhì; Vạn Niên Phong Cung (Chùa Chợ, thị trấn Cầu Kè) thờ ông Ba và Niên Phong Cung (Chùa Cây Sanh, xã Tam Ngãi) thờ ông Tư. Ngoài ra, trên địa bàn Cầu Kè còn có hai ngôi chùa thờ Ông Bổn nữa là Vạn Đức Phong Cung (Tam Ngãi) và Thiên Đức Cung (Hoà Ân).`,
+                            },
+                            {
+                                type: 'text',
+                                value: `* Vạn Niên Phong Cung:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-2-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-2-4.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Vạn Niên Phong Cung với lợi thế nằm ở trung tâm thị trấn, giao thông thuận tiện, đời sống người dân sung túc nên được chọn là lễ hội chính. Đây là nơi được dân chúng trong vùng lui tới cúng vái, thỉnh cầu nhiều nhất, cũng là nơi tổ chức lễ Vu Lan Thắng Hội (dân gian thường gọi lễ hội Ông Bổn) lớn nhất trong 04 miếu thờ ông Bổn của huyện, thu hút đông nhất lượt du khách viếng thăm, tạo tiếng vang trong và ngoài tỉnh. Tín ngưỡng Ông Bổn, cụ thể thờ quan thái giám Trịnh Hòa, tại Vạn Niên Phong Cung thể hiện một khát vọng rất thật về sự phò hộ, ban phúc của vị nhân thần vốn đã có công đức với dân chúng khi còn tại thế. `,
+                            },
+                            {
+                                type: 'text',
+                                value: `* Thời gian diễn ra lễ hội:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-3-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-3-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-3-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-3-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/II-3-5.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Lễ hội cúng Ông Bổn ở Trà Vinh đều được tổ chức vào mùa Vu Lan. Hằng năm, vào tháng 7 âm lịch, người Hoa khắp vùng Cầu Kè và khu vực lân cận chuẩn bị bước vào hội lễ Vu lan tổ chức tại các miếu thờ Ông Bổn. Dân gian ở vùng đất này vẫn còn lưu truyền câu nói “Hăm lăm vào đám, hăm tám ra giàn” để chỉ thời gian diễn ra lễ Vu Lan Thắng Hội tổ chức tại Vạn Niên Phong Cung. Lễ Vu Lan bắt đầu từ Vạn Ứng Phong Cung trong ba ngày 8, 9 và 10; Niên Phong Cung trong hai ngày 15 và 16; Minh Ðức Cung trong ba ngày 18, 19 và 20; và cuối cùng là Vạn Niên Phong Cung – lễ hội diễn ra nhiều ngày nhất, quy mô nhất và thu hút hàng ngàn lượt người tham dự - bốn ngày từ 25 đến 28 tháng 7 âm lịch. Có thể nói, đến với vùng đất Trà Vinh, ngoài những lễ hội truyền thống của người Khmer, lễ hội Cúng Biển Mỹ Long – huyện Cầu Ngang và lễ Vu Lan Thắng Hội – huyện Cầu Kè là hai lễ hội văn hóa dân gian thu hút sự tham gia đông đảo của cộng đồng trong và ngoài địa phương.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Các nghi lễ chính',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/III-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/III-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/III-4.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Trong những ngày này, nhiều nghi lễ được tiến hành trang trọng như: Lễ rước thần, Phật ở các đình, chùa vùng phụ cận về Vạn Niên Phong Cung; Lễ khai kinh; Đăng đàn thí thực; Cầu quốc thái dân an,… Phần hội có nhiều hoạt động trong đó độc đáo là hoạt cảnh thầy trò Đường Tam Tạng đi thỉnh kinh của lễ hội là để tri ân, biết ơn người đã có công giúp người Hoa an cư lạc nghiệp trên vùng đất mới, báo hiếu, cầu an, cầu phúc, gắn bó tình đoàn kết của cộng đồng các dân tộc Kinh, Khmer, Hoa trên địa bàn tỉnh Trà Vinh.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'ý nghĩa và công nhận',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-6.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-7.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-8.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%E1%BB%85%20h%E1%BB%99i/L%E1%BB%85%20h%E1%BB%99i%20c%C3%BAng%20%C3%94ng%20B%E1%BB%95n%20huy%E1%BB%87n%20C%E1%BA%A7u%20K%C3%A8/IV-9.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Lễ hội vốn được tổ chức để thể hiện những khát vọng tâm linh, sự thăng hoa về tâm linh của dân gian. Người tham gia lễ hội được sống trong không gian được thiêng hóa. Lễ Vu lan của Phật giáo vốn mang ý nghĩa là ngày xá tội vong ân, thể hiện “thiện tâm” của người trần đối với những linh hồn đã khuất. Điều đầu tiên thấy được từ lễ Vu Lan Thắng Hội tổ chức tại Vạn Niên Phong Cung chính là những nghi lễ tụng niệm cầu siêu, cầu an được thực hiện xuyên suốt với sự tham gia lần lượt của chư tăng, ni cô, nhà sư Khmer, đã mang lại ý nghĩa tâm linh to lớn, xoa dịu những nỗi đau, sự bất an không chỉ dành riêng cho cộng đồng người Hoa mà tất cả chúng sinh. Những nỗi đau mất người thân, những lo lắng về linh hồn đã khuất của con người là những cảm xúc có thật, chỉ có thể được xoa dịu bởi hoạt động mang tính tâm linh.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Song hành những nghi lễ, những hành động vẽ “bùa”, tắm dầu, rạch lưỡi,… của các “xác Ông” (là sự hiện diện của những ông nhập xác các ông Bổn), cũng ẩn chứa những giá trị tâm linh đối với cộng đồng. Vốn văn hóa tâm linh là những sáng tạo tinh thần để con người có chỗ tựa mà thoát khỏi sự sợ hãi, chỗ tựa để con người tự tin nỗ lực sống. Hiện tượng “nhập xác” của các Ông Bổn tại lễ Vu Lan Thắng Hội, một dạng thức hóa thân, đã đưa con người, cộng đồng hoặc quay trở về với không gian hồi cố lịch sử, hoặc thoát khỏi những hệ lụy đau khổ của cuộc sống trần tục, để tâm hồn, tinh thần được thăng hoa. Những lá “bùa” giống như một dạng “bảo hiểm tinh thần” giúp con người tự tin trong cuộc sống hơn.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+        ]
+    },
+    {
+        figureId: 5,
+        data: [
+            {
+                id: '14',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/I-2.jpg',
+                video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
+                title: 'Làng nghề sản xuất rượu Xuân Thạnh',
+                description: 'Làng nghề sản xuất rượu Xuân Thạnh, xã Hòa Thuận, huyện Châu Thành, được công nhận theo Quyết ...',
+                contents: [
+                    {
+                        title: 'Giới thiệu chung',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/I-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/I-2.jpg',
+                                ],
+                            },
+                            
+                            {
+                                type: 'text',
+                                value: `- Làng nghề sản xuất rượu Xuân Thạnh, xã Hòa Thuận, huyện Châu Thành, được công nhận theo Quyết định số 1671/QĐ-UBND ngày 18/10/2011 của UBND tỉnh Trà Vinh. `,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử hình thành',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/II-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/II-2.jpg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Rượu Xuân Thạnh được nấu lần đầu tiên vào khoảng năm 1926 do người họ Hà tại ấp Xuân Thạnh, xã Hòa Thuận, huyện Châu Thành. Vào Thời Pháp thuộc, lính Pháp càn quét làng Xuân Thạnh, phát hiện những hủ rượu được giấu trong các bụi cây đế, bọn chúng uống thử thấy ngon miệng nên đặt  tên gọi rượu đế xuất phát từ đó. Về sau, ra làng Xuân Thạnh uống rượu đế và gọi tên là rượu Xuân Thạnh.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Quy trình sản xuất',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/III-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/III-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/III-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/III-5.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Quy trình sản xuất rượu Xuân Thạnh cũng khá đơn giản, nhưng nếu không phải là người của làng Xuân Thạnh và có bề dày kinh nghiệm gia truyền thì không thể nào sản xuất ra loại rượu Xuân Thạnh có nồng độ cao và hương vị thơm nồng nàn.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `1. Nấu nếp: Nếp được nấu chín, để nguội nhưng vẫn còn đủ độ ấm.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `2. Ủ men: Trộn đều nếp với 14 loại men rượu, 48 dòng nấm mốc, 35 dòng nấm men gia truyền, cho vào hủ ủ kín trong 03 ngày.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `3. Thêm nước: Tiếp theo cho nước (nước giếng tại làng Xuân Thạnh, vì khu vực này là đất giồng cát) với hàm lượng vừa đủ vào hủ cơm rượu đã ủ men và ủ tiếp 03 ngày nữa.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `4. Chưng cất: Đem chưng cất, trong quá trình chưng cất phải để lửa cháy đều vừa đủ để rượu chưng cất từng giọt đảm bảo nồng độ và hương vị.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Các loại rượu Xuân Thạnh',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/IV-1.jpg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Rượu Xuân Thạnh có ba loại chủ yếu:`,
+                            },
+                            {
+                                type : 'text',
+                                value: `1. Rượu Xuân Thạnh trắng: Làm từ nếp trắng, nồng độ từ 50 – 55 độ.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `2. Rượu Xuân Thạnh lão tửu: Làm từ nếp than, nồng độ từ 20 – 29 độ.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `3. Rượu Chuối hột: Làm từ nếp trắng và chuối hột, nồng độ từ 29 – 40 độ.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `Tuy khác về nồng độ nhưng tất cả đều mang hương vị thơm nồng lâng lâng say đắm.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Đặc sản và niềm tự hào',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/V-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/V-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/V-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/V-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20s%E1%BA%A3n%20xu%E1%BA%A5t%20r%C6%B0%E1%BB%A3u%20Xu%C3%A2n%20Th%E1%BA%A1nh/V-5.jpg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Rượu Xuân Thạnh được xem là loại đặc sản được nhiều người yêu thích, chọn mua làm quà. Với bí kíp gia truyền của một gia đình, dòng họ ở ấp Xuân Thạnh xã Hòa Thuận, huyện Châu Thành (Trà Vinh), rượu Xuân Thạnh là niềm tự hào của bà con xứ này.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Đối với người sành rượu, rượu Xuân Thạnh cũng luôn là lựa chọn lý tưởng. Với những người lớn tuổi ở miền Tây, trước mỗi bữa ăn sẽ có một ly rượu để cho tiêu cơm. Xưa kia nó còn được nấu để dành cho các dịp trang trọng như cúng tế, lễ hội.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Với hương vị độc đáo và giá trị, rượu Xuân Thạnh trở thành một món quà biếu sang trọng cho các dịp lễ lạt, tặng đối tác, khách hàng, tặng biếu gia đình. Đây cũng sẽ là món quà tuyệt vời khi biếu tặng cho những người sành rượu.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '15',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/I-6.jpg',
+                video: 'https://www.youtube.com/embed/Q3BrfMOITkE?list=PLO4xYQBA1oxVDRzXzjLUPhnlEC5JMx628',
+                title: 'Làng nghề Dệt chiếu Hàm Tân',
+                description: 'Làng nghề dệt chiếu Cà Hom – Bến Bạ xã Hàm Tân, huyện Trà Cú, tỉnh Trà Vinh hình thành từ những...',
+                contents: [
+                    {
+                        title: 'Giới thiệu chung',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/I-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/I-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/I-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/I-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/I-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/I-6.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: ` - Làng nghề dệt chiếu Cà Hom – Bến Bạ xã Hàm Tân, huyện Trà Cú, tỉnh Trà Vinh hình thành từ những thập niên cuối thế kỉ XIX. Từ chỗ tự sản xuất, tự tiêu thụ hoặc làm quà biếu và sản phẩm đạt chất lượng vượt hẳn các sản phẩm cùng loại nên chiếu Cà Hom – Bến Bạ dần dần nổi tiếng và trở thành hàng hóa từ những năm 1940 và được nhiều người biết đến trong những năm 1960 cho đến nay.`,
+                            },
+                            {
+                                type: 'text',
+                                value: ` - Đây là một trong những làng nghề truyền thống của tỉnh Trà Vinh, được các thế hệ người dân truyền nghề nhau gần 100 năm nay. Mỗi năm làng chiếu cung cấp cho thị trường vùng Đồng bằng Sông Cửu Long hàng trăm nghìn đôi chiếu có độ bền, đẹp, hoa văn độc đáo.`,
+                            },
+                            {
+                                type: 'text',
+                                value: ` - Ưu điểm của chiếu hoa ở làng chiếu Cà Hom – Bến Bạ sau khi sử dụng từ 4 -5 năm, nhưng vẫn đảm bảo chiếu không bị đổ lông, phai màu và giòn gãy.. Hình ảnh hay hoa văn thường được các nghệ nhân chọn lựa rất công phu cho từng sản phẩm của mình, phù hợp với thị hiếu của người tiêu dùng.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử hình thành',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/II-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/II-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/II-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/II-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/II-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/II-6.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Sự ra đời của nghề dệt chiếu ở Cà Hom – Bến Bạ xã Hàm Tân được các chị em phụ nữ học lỏm được trong dịp đi thăm họ hàng ở Cà Mau, khi về họ bắt đầu làm khung căng sợi, cắt lát chẻ nhỏ phơi khô dệt thử những chiếc chiếu đầu tiên hơi khô ráp, rồi dần dần trở nên vừa mắt hơn, sờ mịn tay hơn nhờ vậy, từ những chiếc chiếu thô ráp ban đầu trải qua nhiều thế hệ chiếu Cà Hom – Bến Bạ tạo được uy tín trên thương trường các tỉnh Nam Bộ với các chủng loại đa dạng hơn như chiếu trắng, chiếu màu, chiếu in hoa, in chữ… Nhiều nghệ nhân trong nghề được gần xa biết đến như bà Ngô Thị Pho, Mã Thị Dứt… Sản phẩm chiếu của làng Cà Hom- Bến Bạ chủ yếu là chiếu hoa với 5 màu chủ đạo là trắng, đỏ, xanh, vàng và tím. Hình ảnh hay hoa văn thường được các nghệ nhân chọn lựa rất công phu cho từng sản phẩm của mình, phù hợp với thị hiếu của người tiêu dùng, hoặc theo yêu cầu của các thương lái .Đặc biệt là chiếu hoa dệt 2 mặt, đòi hỏi sự khéo léo và thể hiện sự tinh tế, tính thẩm mỹ trong từng đường dệt của nghệ nhân.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Quy trình sản xuất',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-6.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-7.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-8.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-9.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-10.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-11.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/III-12.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Xã Hàm Tân đã thành lập được hợp tác xã chiếu thảm Hàm Tân để tập hợp mọi người cùng hướng đến sản xuất ổn định, bền vững, nâng cao chất lượng sản phẩm và mở rộng thị trường, xây dựng thương hiệu làng chiếu Cà Hom – Bến Bạ đến với người tiêu dùng mọi nơi.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Nghề dệt chiếu ở Cà Hom – Bến Bạ đã từng bước được khép kín. Nguyên liệu dệt chiếu được người dân trong xã tự trồng trên các diện tích đất lúa kém hiệu quả.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `1. Trồng nguyên liệu: Toàn xã có trên 35 ha đất trồng lác, cứ 1000 m2 đất trồng lác cho ra khoảng 120 đôi chiếu lớn và 120-130 đôi chiếu khổ nhỏ.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `2. Tìm nguyên liệu: cây lác cho thật già, sau đó chọn lựa chiều dài của lác cho phù hợp với khổ chiếu cần dệt.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `3. Chế biến nguyên liệu: Lác được chọn lựa, rửa sạch, vót nhỏ, phơi khô. Nếu làm chiếu hoa, lác được pha màu nấu sôi để đảm bảo độ thấm màu.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `4. Dệt chiếu: Dệt chiếu hoa đòi hỏi sự khéo léo, tinh tế và thẩm mỹ trong từng đường dệt. Chiếu hoa thường có 5 màu chủ đạo là trắng, đỏ, xanh, vàng và tím.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Chiếu Cà Hom – Bến Bạ có giá cao hơn với chiếu Cà Mau cùng chủng loại mà vẫn không đủ bán. Hai ấp Cà Hom, Bến Bạ nhà nào cũng có đôi ba khung dệt, nhộn nhịp hoạt động hết công suất, cả ngày lẫn đêm.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Thách thức và phục hồi',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-6.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-7.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/IV-8.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Thế nhưng vào những năm 1990, làng nghề dệt chiếu Cà Hom-Bến Bạ có thể nói gần như đi đến bên bờ vực mai một. Nguyên nhân, do người dân làng nghề không chủ động được nguồn nguyên liệu, sản phẩm chiếu không được cách tân về mẫu mã nên không đủ sức cạnh tranh trên thị trường. Không sống được với nghề, hàng trăm người thợ đã bỏ khung dệt, đi xa xứ mưu sinh bằng những nghề khác. Người có công đưa làng nghề dệt chiếu Cà Hom-Bến Bạ từ chỗ sắp mai một đi đến ăn nên làm ra là bà Ngô Thị Pho, một thợ dệt dân tộc Khmer lão luyện trong nghề. Trong lúc bao người thợ đã bỏ nghề, thì bà Ngô Thị Pho vẫn gắn bó bên khung dệt. Chiếu thô, chiếu trắng thường không được thị trường chấp nhận thì dệt hoa, màu sắc đẹp để đáp ứng theo yêu cầu, sở thích người tiêu dùng. Với suy nghĩ đó, bà tự thiết kế hoa văn, phối màu, rồi dệt thử sản phẩm chiếu hoa hai mặt.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Sau nhiều lần thất bại, nhưng rồi cuối cùng bà cũng thành công. Năm 2000, chiếu hoa hai mặt của bà Pho khi được chào bán ra chợ xã đã chiếm được ngay thị hiếu của người tiêu dùng. Cũng từ đó, ngày càng có nhiều người tìm đến đặt hàng cho bà dệt những chiếc chiếu hoa, có chữ Hán, chữ Khmer… Độc đáo nhất là bà đã thiết kế, phối màu dệt nên chiếu hai mặt có hình những ngôi chùa tháp vàng ở đất nước Campuchia, được rất nhiều bà con Khmer ở Nam Bộ và Campuchia ưa chuộng.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Quy mô hoạt động và công nhận',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-6.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-7.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-8.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-9.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20D%E1%BB%87t%20chi%E1%BA%BFu%20H%C3%A0m%20T%C3%A2n/V-10.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Làng chiếu truyền thống này có quy mô bao trùm hai ấp Cà Hom và Bến Bạ của xã Hàm Giang, huyện Trà Cú, với gần 500 khung dệt, giải quyết được khoảng ngàn lao động thường xuyên lúc nhàn rỗi. Đó là chưa kể một đội quân không nhỏ cung cấp các dịch vụ cần thiết cho nghề làm chiếu từ trồng và thu hoạch lát, chẻ phơi, vận chuyển, nhuộm màu lát đến tiêu thụ ra thị trường.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Vào dịp giáp Tết Nguyên đán là thời điểm làng nghề dệt chiếu Cà Hom – Bến Bạ nhộn nhịp nhất trong năm. Bên cạnh sản phẩm chiếu trắng được dệt hàng ngày, các nghệ nhân tập trung làm nhiều chiếu hoa (hay còn gọi là chiếu màu) phục vụ thị trường Tết. Bình quân mỗi ngày, một gia đình 2 người dệt được 1 đôi chiếu hoa (khổ 2m x 1,6m). Gần 500 khung dệt, mỗi ngày làng chiếu Cà Hom – Bến Bạ đưa vào thị trường 1.000 – 1.200 đôi chiếu, thu về cả trăm triệu đồng.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Hiện tại, làng nghề có 37 ha đất trồng lác với 450 hộ dệt chiếu.Trong số gần 400 hộ sinh sống với nghề dệt chiếu truyền thống thì có 80% hộ dân làm nghề là người dân tộc Khmer. Làng chiếu Cà Hom – Bến Bạ ngoài giải quyết việc làm cho những hộ trực tiếp làm nghề, còn gián tiếp giải quyết cho hơn 1.500 lao động ở các khâu: trồng lác, sơ chế nguyên liệu, dệt gia công và tiêu thụ sản phẩm. Mỗi năm làng chiếu Cà Hom – Bến Bạ cung cấp ra thị trường trên dưới 150.000 đôi chiếu.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Trãi qua bao thăng trầm, nhưng sản phẩm chiếu lác Hàm Tân luôn giữ được người tiêu dùng ưa chuộng. Nghề dệt chiếu của xã Hàm Tân, huyện Trà Cú được UBND tỉnh công nhận làng nghề vào tháng 12 năm 2014.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '16',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/I-1.jpg',
+                video: 'https://www.youtube.com/embed/lEnyxytD8kU?list=PLO4xYQBA1oxVCO7kROjhPy_Y2QU7Yep49',
+                title: 'Làng nghề tiểu thủ công nghiệp Hưng Mỹ',
+                description: 'Làng nghề tiểu thủ công nghiệp xã Hưng Mỹ, huyện Châu Thành, được công nhận theo Quyết định số...',
+                contents: [
+                    {
+                        title: 'Tổng quan',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/I-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/I-2.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Làng nghề tiểu thủ công nghiệp xã Hưng Mỹ, huyện Châu Thành, được công nhận theo Quyết định số 1814/QĐ-UBND ngày 29/11/2007 của UBND tỉnh Trà Vinh.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Hưng Mỹ là một xã vùng sâu của huyện Châu Thành, diện tích tự nhiên 2.793,72 ha, trong đó đất nông nghiệp 1.722,71 ha, chiếm 61,67%. Xã được công nhận xã làng nghề là điều kiện thuận lợi để phát triển kinh tế, tạo việc làm và tăng thu nhập, nâng cao đời sống cho người dân.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Hoạt động và phát triển làng nghề',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/II-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/II-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/II-3.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Hoạt động chính của làng nghề là dệt thảm, dệt chiếu, đan giỏ (chậu hoa lục bình, giỏ lát và yếm dừa) và các vật dụng trang trí khác bằng dây nhựa màu, dây nhựa 3D, dây lục bình, lác, tơ xơ dừa, tập trung nhiều nhất ở các ấp Bãi Vàng, Đại Thôn, Rạch Vồn, Ngãi Hiệp, Ngãi Lợi, đã góp phần giải quyết việc làm, nâng mức thu nhập cho rất nhiều gia đình nông dân. Cùng với sự phát triển của các làng nghề thủ công mỹ nghệ khác như làng nghề xã Định An, Đức Mỹ, Lương Hòa,...làng nghề tiểu thủ công nghiệp xã Hưng Mỹ đã và đang làm phong phú thêm chuỗi sản phẩm thủ công truyền thống từ nguồn nguyên liệu dồi dào của địa phương, từng bước nâng cao tay nghề và bảo tồn, phát huy giá trị các sản phẩm làng nghề truyền thống của tỉnh nhà.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Tình hình lao động và thu nhập',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/III-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/III-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/III-4.jpg',
+                                ],
+                            },
+                            {
+                                type :'text',
+                                value: `- Toàn xã Hưng Mỹ có trên 2.600 lao động có việc làm thường xuyên, trong số đó lao động tại chỗ là trên 1.400 lao động chiếm trên 50%, đa số tập trung làm việc tại các doanh nghiệp trên địa bàn. Bây giờ làng nghề tiểu thủ công nghiệp ở xã Hưng Mỹ phát triển mạnh, là xương sống để giúp địa phương từng bước nâng cao tỷ lệ lao động nông thôn đạt tiêu chí xã Nông thôn mới. Chỉ tính riêng DNTN Văn Chất do bà Giềng làm chủ Doanh nghiệp ở ấp Bãi Vàng đã đảm nhận công việc giao nguyên liệu, nhận hàng và trả tiền gia công nghề đan giỏ bằng dây nhựa cho hơn 500 hộ gia đình. Thu nhập bình quân của lao động làm nghề đan thấp nhất 100 - 120 nghìn đồng/ngày/người Trường hợp những lao động làm lâu năm quen nghề thu nhập khoản 150 – 200 nghìn đồng/ngày/người.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Đầu tư và kế hoạch tương lai',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/IV-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/IV-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/IV-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/l%C3%A0ng%20ngh%E1%BB%81/L%C3%A0ng%20ngh%E1%BB%81%20ti%E1%BB%83u%20th%E1%BB%A7%20c%C3%B4ng%20nghi%E1%BB%87p%20H%C6%B0ng%20M%E1%BB%B9/IV-4.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Cùng với số máy dệt thảm, dệt chiếu có từ trước làng nghề Hưng Mỹ đã dùng toàn bộ vốn vay của NHCSXH và vốn góp của xã viên đầu tư thêm 25 máy dệt thảm của Nhật Bản, 2 máy dệt hoa văn, thành lập được 1 phân xưởng ươm dệt. Đồng thời, chủ động trong khâu mua nguyên liệu, tổ chức dạy nghề và tổ chức thi tay nghề, tìm ra những tay thợ giỏi". Chủ tịch UBND xã Hưng Mỹ cho biết thêm: Ước mơ khôi phục, mở mang làng nghề đan, dệt truyền thống của địa phương đã trở thành hiện thực. Xã đang lập quy hoạch, dự án vay thêm vốn NHCSXH chuyển đổi ngành nghề nông thôn theo hướng đào tạo nghề gắn với quy hoạch ngành nghề nông thôn ở tất cả 8/8 ấp nhằm xóa nghèo bền vững, đảm bảo an sinh xã hội.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+        ]
+    },
+    {
+        figureId: 6,
+        data: [
+            {
+                id: '17',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
+                title: 'CHÙA ANG KOR RAIG BOREI (CHÙA ÂNG)',
+                description: 'Địa chỉ: cách trung tâm thành phố Trà Vinh hơn 5km về hướng tây nam, thuộc khóm 4, ...',
+                contents: [
+                    {
+                        title: 'Địa chỉ',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Cách trung tâm thành phố Trà Vinh hơn 5km về hướng tây nam, thuộc khóm 4, phường 8, thành phố Trà Vinh, tỉnh Trà Vinh.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử hình thành',
+                        data: [
+                            {
+                                type : 'text',
+                                value: `- theo truyền kể thì chùa  ng được xây dựng vào cuối thế kỷ X (năm 1534 Phật lịch, tức năm 990 dương lịch) . Tuy nhiên,  ngôi chính điện với những giá trị kiến trúc độc đáo còn tồn tại đến hôm nay, được xây dựng vào năm 2386 Phật lịch, tức năm 1842 dương lịch.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Kiến trúc',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Cổng chùa: nằm ở hướng đông được trang trí theo hình : yăk (chằn), krud (chim thần), key-no( tiên nữ),….`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Chính điện: có diện tích 864 m2, nằm ở trung tâm chùa trên nền cao và hành lang rộng 4 phía, có cổng ra vào ở hai hướng đông tây.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Khung sườn chính điện: làm bằng gỗ quý`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Máy: cấu tạo gồm 3 cấp, 2 mái trên cùng dốc và cao hơn các mái kia. Trên các diềm mái có hình phu-chông (rồng) nằm xoải dài theo bờ dải.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Nội thất: là nơi thờ Phật gồm 12 cột chính bằng gỗ trên cột có hình phu-chông. Tượng Phật chính cao 2.1m an tọa trên tòa sen, xung quanh có 50 tượng Phật lớn nhỏ. Phía trước là bao lam bằng gỗ chạm khắc rất sắc xảo. Trên vách bốn bên được trang trí rất nhiều bức tranh về cuộc đời của Đức Phật.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Trước chính điện: có một tháp 5 ngọn, ở 4 gốc chân tháp có 4 Rech-cha-sey(sư tử vua)`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Xung quanh chính điện: có nhiều tháp, trên đỉnh tháp là đầu thần 4 mặt Ma-ha-prum. Ngoài ra trong khuôn viên chùa còn nhiều công trình kiến trúc khác như: sa la, tăng xá, tháp cốt,…`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Ngày 12/7/1994, được Bộ Văn hóa, Thể thao, Du lịch xếp hạng chùa là di tích quốc gia thuộc loại hình di tích kiến trúc nghệ thuật.`,
+                            },
+
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '18',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                video: 'https://www.youtube.com/embed/Q3BrfMOITkE?list=PLO4xYQBA1oxVDRzXzjLUPhnlEC5JMx628',
+                title: 'CHÙA PY-SEY VA-RA-RAM  (CHÙA BA SY)',
+                description: 'Địa chỉ: cách trung tâm thành phố Trà Vinh khoảng 10km về hướng tây bắc, cách thị trấn...',
+                contents: [
+                    {
+                        title: 'Địa chỉ',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Cách trung tâm thành phố Trà Vinh khoảng 10km về hướng tây bắc, cách thị trấn Càng Long khoảng 13km về hướng đông nam thuộc Giồng Chùa, xã Phương Thạnh, huyện Càng Long, tỉnh Trà Vinh.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử hình thành',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Được xây dựng vào cuối thế kỉ 17, qua 11 đời trụ trì. Trong các cuộc kháng chiến chống ngoại xâm, chùa Ba Si còn là nơi nuôi dưỡng lãnh đạo cách mạng ở địa phương.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Kiến trúc',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Chùa có khuôn viên rộng 6 ha, ẩn mình dưới những tán cây cổ thụ hàng trăm năm tuổi và có một quần thể kiến trúc gồm: cổng, chính điện thư viện, sala thiene (trai đường), sala pali (trường học pali)… mang đậm lối kiến trúc, đậm sắc văn hóa của người Khmer.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Ngày18/7/2012, được Bộ Văn hóa, Thể thao, Du lịch ban hành Quyết định số 2631/QĐ-BVHTTDL xếp hạng di tích Chùa Pyseyvaram là di tích cấp quốc gia thuộc loại hình di tích lịch sử.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '19',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                video: 'https://www.youtube.com/embed/lEnyxytD8kU?list=PLO4xYQBA1oxVCO7kROjhPy_Y2QU7Yep49',
+                title: 'CHÙA NODOL (CHÙA CÒ)',
+                description: 'Địa chỉ: tọa lạc tại ấp Cây Da, xã Đại An, huyện Trà Cú, tỉnh Trà Vinh, cách thị xã Trà Vinh ...',
+                contents: [
+                    {
+                        title: 'Địa chỉ',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Tọa lạc tại ấp Cây Da, xã Đại An, huyện Trà Cú, tỉnh Trà Vinh, cách thị xã Trà Vinh khoảng 40 km về phía Nam.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử hình thành',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Lịch sử chùa Cò ghi lại, chùa được xây dựng từ năm 1677. Trải qua hơn 300 năm tồn tại và phát triển, chùa Cò đã được trùng tu vô số lần lớn nhỏ. Sau lần trùng tu gần nhất năm 2009 và 2012, chùa được hoàn thiện đưa vào sử dụng cho tới ngày nay`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Kiến trúc',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Chùa Cò có quần thể kiến trúc mang đặc trưng của chùa Khmer Nam Bộ.  Bao gồm những công trình như cổng chùa, chánh điện, tháp đựng cốt, nhà tăng, nhà hội… được bài trí hài hòa trên một khuôn viên rộng lớn:`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Cổng chùa được trang trí với nhiều nét hoa văn trang trí khá độc đáo và nổi bật.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Khu chánh điện của chùa với những mái uốn cong theo mô hình đuôi rồng, bên trên có những đỉnh tháp nhọn hình ngọn núi Xôme và những hình tượng quen thuộc với người Khmer như thần: thần bốn mặt Mohabrom, chim thần Kâyno, Riehu (Reahu), Mahaknốt…`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Không gian bên trong chính điện được bài trí rất trang nghiêm, vị trí cao nhất đặt bức tượng đức Phật Thích Ca có kích thước lớn, phía dưới là các tượng nhỏ hơn.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Các vách tường trong điện được trang trí bằng nhiều bức tranh rất lộng lẫy, nhiều màu sắc, thể hiện các chủ đề Phật giáo khác nhau.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `Khuôn viên chùa Cò có những rặng tre xanh, những hàng cây sao, sầu đâu, cây dầu. Ghé thăm chùa Cò vào lúc sáng sớm hay xế chiều, du khách được tận mắt chiêm ngưỡng cảnh từng đôi, từng đàn cò sải cánh bay đi kiếm ăn và về tổ tạo ra một khung cảnh tuyệt đẹp trên bầu trời.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '20',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-6.jpg',
+                video: 'https://www.youtube.com/embed/Q3BrfMOITkE?list=PLO4xYQBA1oxVDRzXzjLUPhnlEC5JMx628',
+                title: 'CHÙA KAMPONYNIXRDLE (CHÙA HANG)',
+                description: 'Địa chỉ: tọa lạc tại khóm 3, thị trấn Châu Thành, cách trung tâm thành phố Trà Vinh hơn 5...',
+                contents: [
+                    {
+                        title: 'Địa chỉ',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Tọa lạc tại khóm 3, thị trấn Châu Thành, cách trung tâm thành phố Trà Vinh hơn 5 km về hướng nam, theo quốc lộ 54.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử hình thành',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Chùa được thành lập năm 1637 và đã trải qua 22 đời sư trụ trì. Năm 1968 trong sự kiện Tết Mậu Thân, chùa bị bom đạn tàn phá nặng nề. Năm 1977, sư Thạch Suông (nay là sư trụ trì đời thứ 23) trở về, và vận động phục dựng lại chùa. Từ đó đến nay, qua nhiều lần trùng tu, ngôi chùa trở nên khang trang và bề thế.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Kiến trúc',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang%20-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-6.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-7.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Hang/Ch%C3%B9a%20Hang-8.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Khởi nguyên, ngôi chùa quay mặt về hướng đông, nơi có bến ghe xuồng gần bên gốc đa để bà con phum sóc tiện lên chùa nghe kinh, lễ Phật nên có tên Wat Kompong Ch’rây (Chùa Bến Cây Đa). Đến đầu thế kỷ XX, chùa làm thêm một cổng phụ phía tây, quay ra tỉnh lộ 36 (nay là quốc lộ 54). Cổng phụ có dạng tam quan mái vòm thành hình hai hang nhỏ hai bên, hang lớn ở giữa nên chùa có thêm tên Chùa Hang.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Cổng hang là “vết tích” cho thấy Phật giáo Nam tông Khmer Trà Vinh có sự kế thừa nhất định Bà La Môn giáo, bởi ngày xưa, các tu sĩ Bà La Môn thường lặng lẽ tu luyện trong các hang động.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Chánh điện chùa xây dựng trên nền đất cao, có nhiều bậc cấp dẫn lên, được trang trí lộng lẫy với nhiều hoa văn, họa tiết.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Mái của chánh điện được cấu tạo gồm nhiều lớp chồng lên nhau, trên đỉnh là chóp tháp cao vút, uy nghi.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Bên trong chính điện là hai hàng cột cao lớn uy nghi, giữa chính điện là bàn thờ. Tượng Phật Thích Ca to lớn đặt trên cao, phía dưới là những tượng Phật Thích Ca nhỏ hơn trong nhiều tư thế khác nhau.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Phía trước nhà khách và tăng xá là tháp cột cờ, chân tháp có bộ phù điêu 7 đầu rắn thần Naga. Đối diện với chánh điện chùa Hang là quần thể tượng 12 con giáp, được bố trí hình vòng cung đắp nổi cặp rồng uốn lượn như chiếc thuyền.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Khuôn viên Chùa Hang rộng khoảng 7 ha, thực sự là khu rừng nguyên sinh với nhiều chủng loài thực vật đặc hữu đất giồng cát như sao, dầu, tre, trúc… chen nhau thành nhiều tầng cao thấp khác nhau. Ngày nay, trên khuôn viên chùa có đến gần hàng chục ngàn cá thể chim các loại, nhiều nhất là cò trắng, cò ngà, cò cổ đỏ và diệc. Được con người yêu thương bảo vệ, chim ngày càng dạn dĩ hơn.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Thông tin thêm về Chùa Hang: Trong chùa có một trường học khá quy mô và khoảng hai chục nhà sàn nhỏ vừa đủ cho một người ở, người dân Khmer trong vùng thường đến để cầu nguyện, tụ tập. Ngoài ra ở chùa Hang còn có xưởng điêu khắc gỗ nghệ thuật đã hoạt động gần 30 năm và đã cho ra đời rất nhiều tác phẩm với nhiều kích cỡ khác nhau.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '21',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t%20-1.png',
+                video: 'https://www.youtube.com/embed/lEnyxytD8kU?list=PLO4xYQBA1oxVCO7kROjhPy_Y2QU7Yep49',
+                title: 'CHÙA KOM PONG (Chùa Ông Mẹt)',
+                description: 'Địa chỉ: tọa lạc ở số 50/1 Lê Lợi, khóm 2, phường 1, thành phố Trà Vinh, tỉnh Trà Vinh ...',
+                contents: [
+                    {
+                        title: 'Địa chỉ',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Tọa lạc ở số 50/1 Lê Lợi, khóm 2, phường 1, thành phố Trà Vinh, tỉnh Trà Vinh.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lịch sử hình thành',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `- Chùa được tạo dựng đầu tiên vào năm 642 cách vị trí hiện tại khoảng 1km. Đến năm 1315 Phật lịch tức năm 711 dương lịch chùa được dời về vị trí hiện nay. Trải qua thời gian tuy ngôi chùa được tu sửa nhiều lần nhưng ngôi chính điện và thư viện có giá kiểu dáng kiến trúc ban đầu.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Kiến trúc',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t%20-1.png',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t%20-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t%20-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t/Ch%C3%B9a%20%C3%94ng%20M%E1%BA%B9t%20-4.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Chính điện: có hình chữ nhật được xây theo hướng đông tây, mặt quay về hướng đông trên nền tam cấp cao 3,18 m. Bốn gốc phía trong rào là các tháp dạng Kốte. Phía trước hướng đông và phía sau hướng tây là cửa ra vào với nhiều bậc thang lên xuống. Bên trong chính điện có một bệ thờ lớn đặt Phật Preas – chi rất to ngồi trên tòa sen cùng nhiều tượng khác. Khung sườn chịu lực được làm bằng gỗ quý. Trên bốn bức tường vẽ các tranh theo chủ đề phân kỳ sự tích Đức Phật từ lúc còn nhỏ.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Trước bệ thờ Phật là hai pháp tọa bằng gỗ quý hình tượng Reach – sây (sư tử vua). Trên các đầu cột của hành lang bao quanh chính điện đều trang trí tượng Key – no, riêng cột ở các góc thì trang trí tượng Krud.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Mái chùa: lợp ngối và thiết kế theo kiểu có nhiều cấp, nếp mái. Giữa các cấp mái có rèm che làm bằng gỗ chạm khắc hoa văn. Trên các bờ dãy giáp mí của mái là các con rồng (phu – chông) nằm xoãi dài.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Đầu hồi: làm bằng gỗ, đầu hồi phía trước chạm khắc hình tượng chim thần Krud hai tay cầm hai cây đao chéo nhau đỡ thần Ay – sô. Phía dưới là Ria – hu đỡ chân Krud. Đầu hồi sau chạm khắc hình Vis – nu đứng thẳng mình, chân đặt trên hình tượng mặt trời.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `+ Thư viện: được làm theo kiểu nhà sàn với khung bằng gỗ quý. Năm 1916, nhà chùa cho xây gạch dưới các chân cột xung quanh thay cho vách ván và cách ly giữa cột gỗ với tường xi măng để bảo vệ lâu dài hơn. Ở các xiên và đầu cột bên trong được chạm khắc hoa văn và sơn son thếp vàng. Thư viện được chia thành ba gian dùng để trưng bày và đọc sách.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Ngày 3/3/2009, Bộ Văn hóa, Thể thao và Du lịch ban hành Quyết định xếp hạng chùa Kom Pong là di tích quốc gia thuộc loại hình di tích kiến trúc nghệ thuật.`,
                             },
                         ],
                     },
