@@ -5,6 +5,11 @@ export default [
         name: 'Chùa'
     },
     {
+        id: 8,
+        image: 'https://danviet.mediacdn.vn/upload/1-2019/images/2019-01-22/5-nhan-vat-day-bi-hiem-trong-Tam-Quoc-dien-nghia-679-1548174942-width450height540.jpg',
+        name: 'Dân tộc',
+    },
+    {
         id: 2,
         image: 'https://sohanews.sohacdn.com/2016/luubi-1482813338923.jpg',
         name: 'Địa điểm'
@@ -28,9 +33,12 @@ export default [
         id: 1,
         image: 'https://danviet.mediacdn.vn/upload/1-2019/images/2019-01-22/5-nhan-vat-day-bi-hiem-trong-Tam-Quoc-dien-nghia-679-1548174942-width450height540.jpg',
         name: 'Nhân vật lịch sử',
-        description: 'Mô tả về cái món này',
     },
-    
+    {
+        id: 7,
+        image: 'https://danviet.mediacdn.vn/upload/1-2019/images/2019-01-22/5-nhan-vat-day-bi-hiem-trong-Tam-Quoc-dien-nghia-679-1548174942-width450height540.jpg',
+        name: 'Phong tục, tập quán',
+    },
     
     
 ]

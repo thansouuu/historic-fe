@@ -4510,5 +4510,834 @@ export default [
             },
         ]
     },
-    
+    {
+        figureId: 7,
+        data: [
+            {
+                id: '22',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
+                title: 'Tục thờ Quan Thánh đế',
+                description: 'Quan Thánh đế chính là Quan Công, tức Quan Vũ hay Quan Vân Trường – viên tướng văn võ song toàn,...',
+                contents: [
+                    {
+                        title: 'Tổng quát',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Tiểu sử:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Quan Thánh đế chính là Quan Công, tức Quan Vũ hay Quan Vân Trường – viên tướng văn võ song toàn, người đất Giải Lương, tỉnh Hà Đông. Quan Thánh Đế Quân là bậc thánh nhân trượng nghĩa, dũng, liêm, có tài thao lược, lập nhiều công lớn theo hệ giá trị Nho giáo. Ông nổi tiếng trung hiếu của lịch sử Trung Hoa. Sau khi ông mất, việc thờ cúng Quan Thánh đế trở thành tín ngưỡng phổ biến như một giá trị văn hoá truyền thống khắp đất nước Trung Hoa. Trước những biến động của đất nước, nhiều thế hệ người Hoa di cư ra nước ngoài, trong đó có bộ phận đến Trà Vinh và mang theo tín ngưỡng thờ Quan Thánh đế. Quan Thánh đế biểu trưng cho danh dự, lòng chung thủy, sự hi sinh, độ lượng, can đảm, có lòng nhân hậu, công minh, thẳng thắn, dũng cảm, gan dạ, trung hiếu tiết nghĩa, nhân ái và độ lượng.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Nơi thờ cúng:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Quan Thánh đế được thờ tại Phước Minh Cung ở số 44 đường Điện Biên Phủ, Phường 2, thành phố Trà Vinh. Chùa Phước Minh Cung còn gọi là chùa Ông. Chân dung Quan Thánh đế là hình ảnh một người mặt đỏ, râu dài 5 chòm, mặc triều phục màu xanh lá cây. Quan Thánh đế có nhiều hình tượng khác nhau như ngồi đọc binh pháp, ngồi cầm Thanh long đao, lưng ngồi thẳng mặt hướng nhìn ra cửa giống một ông quan đang giải quyết việc quân cơ.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Nghi thức cúng tế',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Nghi thức cúng tế Ông hằng năm được tổ chức long trọng và nghiêm túc. Vía Quan Thánh đế, hay còn gọi là cúng Ông, thường vào ngày 26/6 âm lịch, vía tử ngày 9/9 âm lịch, vía hiển thánh ngày 04/1 âm lịch, riêng ở ấp Truôn, xã Hòa Lợi, huyện Châu Thành vía Ông được tổ chức vào ngày 13/5 âm lịch. Lễ vật cúng tế thường có heo quay, cháo và có cả một nồi bún nước lèo, hoa quả, trái cây,... `,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Ý nghĩa',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Việc thờ Quan Thánh đế tại cộng đồng người Hoa Trà Vinh để nhớ ơn Ông đã phù trợ người Hoa trong quá trình di dân được an toàn, để giáo dục cho thế hệ mai sau về tinh thần thượng võ, trung nghĩa; là điểm tựa tinh thần của người Hoa trong hoạt động sản xuất, kinh doanh, buôn bán`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '23',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                video: 'https://www.youtube.com/embed/Q3BrfMOITkE?list=PLO4xYQBA1oxVDRzXzjLUPhnlEC5JMx628',
+                title: 'Tục thờ cá Ông',
+                description: 'Thờ cúng cá Ông (cá Voi) là tín ngưỡng đặc thù của ngư dân miền biển nói chung và ngư dân ở Trà Vinh ...',
+                contents: [
+                    {
+                        title: 'Vai trò',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Thờ cúng cá Ông (cá Voi) là tín ngưỡng đặc thù của ngư dân miền biển nói chung và ngư dân ở Trà Vinh nói riêng. Cá Ông đóng một vai trò hết sức quan trọng trong đời sống tâm linh của cư dân vùng biển Nam bộ.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Truyền thuyết',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Có rất nhiều truyền thuyết, giai thoại, truyện kể trong dân gian liên quan đến tục lệ thờ cá Voi. “Tục  truyền rằng cá Voi là hóa thân từ chiếc áo cà sa của Phật Bà Quan  m. Một hôm, trên tòa sen nhìn lướt qua sóng gió đại dương Nam Hải, ngài không khỏi đau lòng khi thấy những ngư dân gặp cơn phong ba bão táp, phải bỏ mình vì giông tố. Trước cảnh tượng đó, Bồ Tát liền cởi chiếc cà sa, xé tan thành từng mảnh nhỏ ném xuống mặt biển. Mỗi mảnh vụn theo nguyện ý của Bồ Tát đã biến thành một con cá Voi với nhiệm vụ cứu nguy các ngư dân lâm nạn trước bão tố trên đại dương. Kể từ đó, cá voi là ân nhân của dân thuyền chài sống trên biển cả. Tuy nhiên, hình vóc cá voi lúc đó tương đối nhỏ, không đủ sức chống chọi với sóng to gió lớn, do vậy đức Quan Thế  m liền mượn bộ xương của ông Tượng (voi) trên rừng cho đàn cá, nhờ thế đàn cá mới đủ sức mạnh chống lại sức mạnh của đại dương. Cũng vì thế, đàn cá mang tên là cá voi (vì mượn xương voi và cũng to lớn như voi). Với cơ thể to lớn, cá voi mặc sức vẫy vùng giữa biển cả và đương đầu với sóng gió, kèm giữ cho tàu thuyền thăng bằng, không bị tan vỡ trong bão tố, sau đó còn dìu tàu thuyền vào tận bờ biển. Do to lớn nên chậm chạp, nhiều trường hợp biết có thuyền chài lâm nạn ở quá xa, cá voi cố sức bơi tới mà không cứu nổi nạn nhân. Để giúp cho cá voi làm tròn nhiệm vụ cứu nạn của mình, Bồ Tát liền ban cho chúng phép thâu đường (tức là rút ngắn con đường lại), dù ở bất cứ nơi nào cần đến đều có thể cứu kịp thời”.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Một câu chuyện khác kể lại rằng: “Trong một lần bị quân tướng nhà Tây Sơn truy đuổi ráo riết, chúa Nguyễn Ánh lâm vào thế đường cùng, phía trước là cửa biển mênh mông, phía sau là tiếng vó ngựa mỗi lúc một gần thêm. Tính mệnh nhà Chúa chỉ còn như chỉ mành treo chuông thì bỗng đâu cá voi nổi lên, phun ba vòi nước lên trời tỏ lòng quy phục. Chúa mừng rỡ cùng đám binh lính yên vị trên lưng cá voi, rẽ sóng vượt cửa biển sang cù lao Cổ Chiên (nay là xã Long Hòa, huyện Châu Thành) trước khi quân Tây Sơn đuổi kịp”.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Lễ hội cúng biển',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Hàng năm Trà Vinh tổ chức lễ hội Cúng biển ở Mỹ Long - huyện Cầu Ngang (diễn ra 3 ngày 10, 11 và 12 tháng 5 âm lịch) và ở Động Cao – xã Đông Hải - huyện Duyên Hải (diễn ra 2 ngày 20 và 21 tháng 2 âm lịch). Lễ hội Cúng Biển Trà Vinh có nhiều nghi lễ liên tiếp diễn ra trình tự. Đó là trình tự: Lễ Túc Yết, Lễ nghinh Nam Hải, Lễ cúng giỗ Tiền vãng, Lễ cúng Thần Nông và Chiến sĩ, Lễ cúng Chánh tế Bà Chúa Xứ, Thầy cúng tế lễ, Lễ nghinh Ngũ phương, Lễ Tống quái (Tống tàu).`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Ý nghĩa',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Tục thờ cá Ông của ngư dân miền biển là một đạo lý cổ truyền, thấm đượm tính nhân văn của dân tộc, thể hiện lòng biết ơn, đáp nghĩa của cư dân vùng biển đối với đấng cứu nhân độ thế.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '24',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                video: 'https://www.youtube.com/embed/lEnyxytD8kU?list=PLO4xYQBA1oxVCO7kROjhPy_Y2QU7Yep49',
+                title: 'Tục tu trả hiếu',
+                description: 'Tục đi tu báo hiếu của người Khmer ở Trà Vinh là một truyền thống lâu đời, mang đậm nét văn hóa và giá ...',
+                contents: [
+                    {
+                        title: 'Địa chỉ',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Giá trị văn hóa:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Tục đi tu báo hiếu của người Khmer ở Trà Vinh là một truyền thống lâu đời, mang đậm nét văn hóa và giá trị giáo dục sâu sắc trong cộng đồng dân tộc Khmer. Hành trình tu tập này không chỉ là một hành động báo hiếu mà còn là cách để rèn luyện đạo đức, tâm hồn và gắn kết tinh thần cộng đồng. Thời gian tu tập thường kéo dài tối thiểu 3 tháng, nhưng có thể thay đổi tùy theo duyên lành và ý nguyện cá nhân của từng người. Sau một thời gian tu hành, người con trai Khmer sẽ được xuất tu. Từ đây, họ chính thức được cộng đồng thừa nhận là người trưởng thành, có đạo, có thể gánh vác được những trọng trách lớn lao. Ý nghĩa đặc biệt của việc xuất gia báo hiếu của đồng bào Khmer là đi tu không phải để trở thành Phật mà để thành người. Bởi lẽ, việc tu là bước chuẩn bị cho người thanh niên có đủ đạo đức, kiến thức, lòng nhân ái để sau khi rời chùa sẽ biết cách xây dựng một cuộc sống tốt đẹp, ý nghĩa.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Quá trình tổ chức và thực hiện:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Tục đi tu thường được tổ chức vào ngày đầu Tết Chôl Chnam Thmây. Người đi tu phải được cha mẹ đồng ý thì chùa mới nhận và tổ chức lễ nhập tu. Sau khi Sư cả đã thống nhất với gia đình ngày nhập tu, gia đình phải chuẩn bị áo cà sa, bình bát và một số vật dụng khác cho con mình. Gia đình sẽ rước Sư ở chùa về xuống tóc cho con và tụng kinh cầu phúc tại gia đình. Ngày hôm sau, nam thanh niên nhập tu sẽ bưng mâm áo cà sa đi trình khắp bà con dòng họ để thông báo. Sáng ngày thứ ba, gia đình chuẩn bị một số món ăn đem vào chùa cúng.  Trưa cùng ngày, tại chánh điện, các sư ở chùa sẽ tiến hành lễ mặc áo cà sa cho các tăng mới vừa nhập tu. Từ đây các tăng sẽ ở lại chùa để tu.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Các tăng mới nhập tu gọi là các Sa Di. Trong thời gian tu, các Sa Di chủ yếu là học kinh, giáo lí nhà Phật bằng tiếng Pali, đồng thời học chữ Khmer. Trong thời gian các Sa Di tu trong chùa, gia đình được tới thăm bình thường, nhưng các Sa Di và người thân trong gia đình khi gặp nhau phải giữ một khoảng cách để thể hiện sự kính trọng đối với người tu hành. Ngoài ra, mỗi tháng các Sa Di được về thăm nhà một lần trong ngày.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Nguồn gốc tục đi tu báo hiếu',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Theo phong tục của người Khmer, vào khoảng 12 tuổi, con trai được cha mẹ gửi vào chùa tu một thời gian để trau dồi đức hạnh và kiến thức. Nguồn gốc tục đi tu báo hiếu xuất phát từ câu chuyện cảm động về hai mẹ con người dân tộc Khmer: “Cha mất sớm nên người mẹ phải thay người cha làm nghề săn bắt để nuôi con. Là đứa trẻ nhân từ, thấy mẹ sát sinh, nên Socpenh Kokma trốn mẹ đi tu để hóa giải tội lỗi. Khi người mẹ mất, oan hồn của bà đã không bị quỷ dữ hành hạ là nhờ đức độ tu hành của con”.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Mục đích và ý nghĩa',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Tục đi tu của người nam thanh niên Khmer là để báo hiếu trả ơn cha mẹ, học tập ngôn ngữ, chữ viết và các phong tục, lễ nghi của dân tộc. Ý nghĩa đặc biệt nữa của việc đi tu là chuẩn bị cho họ có đủ đạo đức, kiến thức, lòng nhân ái để sau khi rời chùa sẽ biết cách xây dựng một cuộc sống tốt đẹp. Luật tu hành của người con trai Khmer hiện nay cũng không quá khắt khe như xưa nữa.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+        ]
+    },
+    {
+        figureId: 8,
+        data: [
+            {
+                id: '25',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
+                title: 'Người Kinh',
+                description: ' Dân cư: Dân tộc Kinh có 683 803 người, chiếm 67,76% dân số toàn tỉnh. Người Kinh sống tập trung...',
+                contents: [
+                    {
+                        title: 'Dân cư và nhà ở',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Dân cư:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Dân tộc Kinh có 683 803 người, chiếm 67,76% dân số toàn tỉnh. Người Kinh sống tập trung nhiều nhất tại thành phố Trà Vinh, các thị trấn và vùng đất ven các sông rạch.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Nhà ở:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Tuỳ vào hoàn cảnh mỗi gia đình mà nhà ở của người Kinh tại tỉnh Trà Vinh có diện tích, cấu trúc và vật liệu xây dựng khác nhau. Tiêu biểu cho lối kiến trúc nhà truyền thống của người Kinh là loại nhà ba gian hai chái, nhà chữ Nhị (二) hoặc chữ Công (工), có kết cấu khung nhà bằng gỗ, nền lót gạch, mái lợp ngói hoặc lá. Cấu trúc nhà chia làm hai phần: phần trước để thờ cúng tổ tiên (thường bố trí ở gian giữa) và tiếp khách, phần sau dùng để sinh hoạt. Ngày nay, ở khu vực thành thị và nông thôn, do diện tích hạn chế nên kiểu nhà phổ biến nhất là nhà ống với vật liệu là gạch và bê tông.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Văn hóa, tín ngưỡng và lễ hội',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Ẩm thực:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Ẩm thực của người Kinh ở Trà Vinh có sự dung hoà trong cách chế biến của các miền.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Món ăn được chế biến để giảm vị cay của người miền Trung, bớt vị mặn của người miền Bắc và mang vị ngọt ngọt của người miền Nam.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Trong các dịp lễ, tết, giỗ chạp người Kinh thường chuẩn bị các món ăn sử dụng nguyên liệu  địa phương như: canh khổ qua dồn, gà hoặc vịt nấu cà ri, các món gỏi trộn như: ngó sen, bắp cải, củ cải trắng, củ cà rốt,… Đặc biệt, trong mâm cơm ngày tết của người Kinh thường có các món bánh tét, bánh ít, gà kho gừng, các món kiệu, đu đủ ngâm chua ngọt,…`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Về thức uống, người Kinh thường dùng trà xanh, các loại nước nấu từ các lá thuốc nam, đậu rang, râu bắp,…`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Trang phục`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Trong ngày lễ, tết hoặc một số ngày lễ quan trọng của gia đình, trước đây người Kinh ở Trà Vinh thường mặc trang phục truyền thống như áo dài, khăn đóng đối với nam giới,áo dài đối với nữ giới. Ngày nay, cùng với sự du nhập của thời trang phương Tây và các nước khác cũng như phục vụ cho những hoàn cảnh lao động, sinh hoạt và các công việc khác nhau mà thường phục, trang phục của người Kinh cũng được thay từ những bộ đồ truyền thống như đồ bà ba thành áo thun, áo sơ-mi trắng, váy dài, chân váy, quần dài, quần tây... Áo dài cũng đã được cách tân ít nhiều để phù hợp nhu cầu thời trang hiện đại nhưng vẫn giữ được nét truyền thống và tôn lên được vóc dáng cũng như vẻ đẹp dịu dàng của người phụ nữ.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Tôn giáo, tín ngưỡng:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Thờ cúng tổ tiên là tín ngưỡng quan trọng nhất. Tục thờ thổ công, táo quân, ông địa phổ biến ở nhiều nơi; nhiều gia đình thờ Thành hoàng, chùa thờ Phật,… Một bộ phận cư dân ở nông thôn hay thành thị còn theo đạo Thiên chúa, Tin lành và các tôn giáo khác như Cao Đài, Hòa Hảo....`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Lễ hội:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Trong một năm, người Kinh ở Trà Vinh có nhiều lễ, Tết như: Tết Nguyên đán, Tết Đoan ngọ, lễ Vu lan, Tết Trung thu,… trong đó, tết Nguyên đán có quy mô lớn và thời gian kéo dài nhất. Ngoài ra, cộng đồng người Kinh ở Trà Vinh hàng năm còn tổ chức nhiều lễ hội liên quan đến tín ngưỡng của nhân dân như lễ hội Nghinh Ông, lễ Hạ Điền, lễ Thượng Điền, lễ giỗ Bác Hồ,… để tưởng nhớ công ơn của các bậc tiền nhân và cầu mong cho mọi người một năm mưa thuận, gió hoà, mùa màng bội thu, gia đình hoà thuận, yên ấm, hạnh phúc,…`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Kinh tế và xã hội',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Hôn nhân:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Người Việt rất coi trọng tình yêu trong trắng chung thủy. Dưới thời phong kiến thường là "cha mẹ đặt đâu còn ngồi đấy", ngày nay nam nữ tự tìm hiểu. Nghi lễ cưới xin truyền thống ở người Việt phải trải qua 4 bước cơ bản: Dạm, hỏi, cưới và lại mặt.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Điều kiện kinh tế:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Đại đa số cư dân sống dựa vào nông nghiệp là chủ đạo, trong đó trồng trọt lúa nước là chính, kết hợp chăn nuôi, mở mang các nghề thủ công và trao đổi, buôn bán. Nông nghiệp lúa nước đã được hình thành và phát triển ở người Việt từ rất sớm. Chăn nuôi lợn, gia súc, gia cầm, thả cá... cũng rất phát triển. Người Việt nổi tiếng "có hoa tay" về nghề thủ công nghiệp, phát triển bách nghệ - trăm nghề mà nghề nào dường như cũng đạt đến đỉnh cao của sự khéo léo tài hoa. Không ít làng thủ công đã tách khỏi nông nghiệp. Chợ làng, chợ phiên, chợ huyện... rất sầm uất. Hiện nay, trong tiến trình công nghiệp hóa và hiện đại hóa đất nước các đô thị và các khu công nghiệp đang ngày càng phát triển, đời sống nhân dân ngày một khấm khá.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '26',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
+                title: 'Người Khmer',
+                description: ' Dân cư: Dân tộc Khmer có 318 231 người, chiếm hơn 31,5% dân số toàn tỉnh. Người Khmer sống tập ...',
+                contents: [
+                    {
+                        title: 'Dân cư và nhà ở',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Dân cư:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Dân tộc Khmer có 318 231 người, chiếm hơn 31,5% dân số toàn tỉnh. Người Khmer sống tập trung tại các phum, sóc trên các giồng cao, ven các sông rạch hoặc ven các đường giao thông, xen kẽ với các làng xóm của người Kinh. Địa bàn tập trung nhiều người Khmer nhất là ở các huyện Trà Cú, Châu Thành, Cầu Kè, Tiểu Cần, Cầu Ngang.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Giáo dục:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Tiếng Khmer được dạy ở nhiều trường cho học sinh.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Nhà ở:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Người Khmer chủ yếu làm kinh tế nông nghiệp nên nhà ở của người Khmer có quan hệ chặt chẽ với cảnh quan nông thôn. Ngày xưa, người Khmer sống chủ yếu tập trung ở trên đất giồng cao, mặt bằng nền nhà được chọn trên mặt giồng với lớp cát pha. Trước đây, nhà của người Khmer làm đơn giản, mái lợp bằng lá dừa nước, ít nhà lợp ngói. Nhà thường làm theo kiểu mái dài về phía sau. Người Khmer thường dùng con số lẻ để định chiều cao 5 m, 7 m và cửa thường quay về hướng đông, nhưng ngày nay thì thường quay ra trục giao thông. Cách bố trí trên mặt bằng sinh hoạt của người Khmer khá đơn giản. Phần lớn cư dân làm nhà đất giống như người Kinh, người Hoa. Cách sắp đặt, tổ chức nhà ở nhìn bên ngoài có cảm giác không khác gì nhà người Kinh. Nhưng nghiên cứu, tìm hiểu kĩ thì sự bố trí có nhiều điểm riêng, mang đậm tập quán sinh hoạt của người Khmer. Bộ khung nhà khá chắc chắn, trong nhà được bài trí như sau: Nhà chia làm hai phần theo chiều ngang, một phần làm nơi ở, phần dành cho bếp núc. Phần dành để ở lại chia thành hai phần theo chiều dọc: phần phía trước, ở giữa kê bàn ghế tiếp khách, bên cạnh thường có tủ kính đựng những chiếc gối thêu vừa để trang trí vừa tiện dùng khi có khách đến chơi. Sau bộ bàn ghế tiếp khách là bàn thờ Phật. Nửa sau, bên phải là buồng của vợ chồng chủ nhà, bên trái là phòng của con chủ nhà. Sự bố trí tuy đơn giản như vậy nhưng không được phép tuỳ ý thay đổi. Ngôi nhà của người Khmer được phân loại dựa vào cấu trúc, quy mô và theo số lượng gian của ngôi nhà mà người ta phân loại thành nhà một gian, nhà hai gian, nhà ba gian.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Văn hóa, tín ngưỡng và lễ hội',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Ẩm thực:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Hàng ngày, người Khmer ở Trà Vinh thường dùng các món ăn được chế biến từ các nguyên liệu như rau, đậu, bầu, bí, tôm, cá, thịt,… cùng một số loại gia vị và nước cốt dừa để nấu, luộc, xào, kho, làm mắm,… Các món ăn mang hương vị đặc trưng và thường được người Khmer sử dụng là mắm bò hóc (prahok), canh bồi, mắm chua, bún nước lèo,…`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Vào các dịp lễ, Tết, người Khmer thường làm bánh tét, bánh tét cốm dẹp, bánh gừng,bánh chuối, bánh in,… bún nước lèo để dâng cúng ở chùa, ở nhà và tiếp khách. Về thức uống, hàng ngày người Khmer thường dùng các loại thức uống được nấu từ lá cây, nước thốt nốt,… hoặc nước đun sôi để nguội.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Trang phục`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `-  Trước đây, trong lao động hoặc sinh hoạt hằng ngày, đàn ông Khmer thường mặc quần áo bà ba đen hoặc trắng, quấn khăn rằn quanh đầu hoặc ở trần và vận xà rông kẻ sọc hay dệt hoa văn ô vuông. Phụ nữ thường mặc váy kín, quấn quanh thân từ hông và vắt về một phía, gấu váy cao trên cổ chân hoặc mặc quần áo bà ba nhuộm đen cùng chiếc khăn rằn đội đầu. Trong những ngày lễ lớn người Khmer thường mặc xăm pốt (tấm vải rộng quấn quanh thân từ hông xuống ngang đùi, phần vải phía sau kéo luồn giữa hai chân vắt ra phía trước rồi giắt lại ở hông thành một loại như chiếc quần ngắn, rộng lùng thùng); phụ nữ lớn tuổi thường mặc áo dài may bít tà, thùng áo rộng và dài ngang dưới gối, cổ áo xẻ trước, hai tay áo chặt, hai bên sườn ghép thêm bốn miếng vải từ nách đến gấu áo và quần đen(1). Ngày nay, người Khmer ở Trà Vinh thường mặc y phục như người Kinh. Trong lễ cưới, trước đây chú rể mặc xà rông và áo màu đỏ, cổ cứng, cài cúc trước ngực; cô dâu mặc xăm pốt màu tím hồng, áo dài thắm tăm pông màu đỏ thẫm, quàng khăn trắng, đội mũ cổ truyền hay loại mũ có hình dáng tháp nhọn như chiếc vương miện nhỏ. Ngày nay, chỉ có một số đám cưới, cô dâu, chú rể mặc trang phục truyền thống của dân tộc mình, còn lại mặc váy áo cưới như người Kinh.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Tôn giáo, tín ngưỡng:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Hầu hết người Khơ-me ở Việt Nam là tín đồ Phật giáo Nam Tông. Đạo Phật có vai trò đặc biệt quan trọng trong đời sống tinh thần của người Khơ-me. Các giáo lý và những điều răn của đạo Phật đã trở thành chuẩn mực trong quan hệ giữa những người Khơ-me trong sóc.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Ngoài ra, người Khơ-me còn có tín ngưỡng và lễ hội dân gian chứa đựng nhiều yếu tố Ấn Độ giáo nhưng được lồng ghép vào Phật giáo.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Lễ hội:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Người Khmer có nhiều loại hình lễ hội được tổ chức hằng năm như: lễ hội gắn với sản xuất và tôn giáo, lễ nghi nông nghiệp, nghi lễ vòng đời.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Lễ hội gắn với sản xuất và tôn giáo của người Khmer gồm có các lễ hội chủ yếu như Tết Chôl-Chnăm-Thmây (lễ mừng năm mới), lễ Sêne Đôlta (lễ cúng ông bà, tổ tiên), lễ Kathina (lễ dâng y), lễ Ok-Om-Bok (lễ cúng Trăng).`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Lễ nghi nông nghiệp: lễ cúng lúa mới, lễ xuống đồng,…`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Nghi lễ vòng đời: Lễ mở mắt, tục cột chỉ tay con, tục đi tu ở nam giới, hôn lễ, tang lễ. Mỗi lễ hội được tổ chức long trọng, có lễ kéo dài nhiều ngày, quy mô tổ chức ngày càng lớn, thu hút du khách trong và ngoài tỉnh đến tham dự.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Điều kiện kinh tế',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Người Khơ-me là chủ yếu sống bằng trồng lúa nước. Ngoài ra, họ có nghề đánh cá, dệt, chiếu, đan lát, dệt vải, làm đường thốt nốt và làm gốm. Kĩ thuật gốm đơn giản, sản phẩm gốm chủ yếu là đồ gia cụ, tiêu biểu nhất là bếp (Cà ràng) và nồi (Cà om) `,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
+                id: '27',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
+                title: 'Người Hoa',
+                description: ' Dân cư: Dân tộc Kinh có 683 803 người, chiếm 67,76% dân số toàn tỉnh. Người Kinh sống tập trung...',
+                contents: [
+                    {
+                        title: 'Dân cư và nhà ở',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Dân cư:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Dân tộc Hoa có 6 632 người, chiếm 0,66% dân số toàn tỉnh. Người Hoa sống tập trung nhiều nhất ở thành phố Trà Vinh và một số thị trấn. Hoạt động kinh tế chủ yếu của người Hoa là thương mại, dịch vụ và tiểu thủ công nghiệp.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Nhà ở:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Kiến trúc nhà ở của người Hoa Trà Vinh hiện nay cũng rất đa dạng, đi theo sự phát triển của thời đại. Tuy nhiên đặc trưng cơ bản về nhà ở của người Hoa là nền gạch, cột cây, lợp ngói âm dương, ngôi nhà thường có 3 gian, gian giữa là để thờ cúng tổ tiên, 2 bên gian là dùng để sinh hoạt gia đình.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Văn hóa, tín ngưỡng và lễ hội',
+                        data: [
+                            {
+                                type: 'text',
+                                value: `* Chữ viết:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Chữ Hán vẫn còn được dạy và học trong các trường .`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Ẩm thực:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Ẩm thực của người Hoa rất đa dạng và phong phú, trong cuộc sống hằng ngày cũng như trong những ngày lễ Tết. Đặc trưng như bánh tổ, chè trôi nước, bánh ú, thịt khô.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Về thức uống, người Hoa thường dùng trà xanh làm thức uống hằng ngày.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Trang phục`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Trong cuộc sống hằng ngày hay cũng như trong những ngày lễ, Tết, trang phục của người Hoa rất phong phú. Tuy nhiên, đặc trưng cơ bản về trang phục của người Hoa là:`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Phụ nữ mặc áo cổ viền cao, cài khuy một bên, xẻ tà cao hoặc một chiếc áo "sườn xám" may dài, ôm ngang hông, xẻ tà dưới phần đùi. Màu sắc phần lớn là màu hồng hoặc đỏ, cùng với các màu đậm.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Ðàn ông mặc áo màu đen hay xanh đậm, cài khuy vải một bên, vai liền cổ đứng, xẻ tà hoặc kiểu áo tứ thân, xẻ giữa, cổ đứng, vai liền, có túi.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Phụ nữ thích dùng đồ trang sức, đặc biệt là vòng tay (bằng đồng, vàng, đá, ngọc...), bông tai, dây chuyền...`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Thờ cúng:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Nổi bật trong các tín ngưỡng dân gian là thờ cúng tổ tiên, gia tộc, dòng họ, thờ cúng các vị thần phù hộ (thần bếp, thổ địa, thần tài...) và một số vị thánh và bồ tát (Quan Công, bà Thiên Hậu, ông Bổn, Nam Hải Quan Âm...)`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Chùa miếu của người Hoa thường gắn liền với các hội quán, trường học. Ðó cũng là nơi sinh hoạt văn hóa cộng đồng, nơi diễn ra các hội lễ.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Lễ hội:`,
+                            },
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type : 'text',
+                                value: `- Người Hoa ở Trà Vinh cũng giống như người Kinh và người Khmer. Trong năm có rất nhiều lễ hội và Tết. Bao gồm Tết Nguyên Đán, Tết Nguyên tiêu, Thanh minh, Tết Đoan Ngọ, lễ Vu Lan, tết Trùng Cửu, tết Đông chí.`,
+                            },
+                            {
+                                type : 'text',
+                                value: `- Sinh hoạt văn hóa truyền thống của người Hoa có nhiều thể loại như hát, múa, hài kịch... với nhiều loại nhạc cụ: tiêu, sáo, các loại đàn (tỳ bà, nhị, nguyệt...), chập chõa Hát "sơn ca" (sán cố) là hình thức được nhiều người ưa chuộng, nhất là tầng lớp thanh niên.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Điều kiện kinh tế',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Người Hoa ở vùng nông thôn chủ yếu sống bằng nghề nông, coi lúa nước là đối tượng canh tác chính, ở các thành phố, thị xã, thị trấn họ làm nghề dịch vụ, buôn bán…`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        id: '1',
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+        ]
+    },
 ]
