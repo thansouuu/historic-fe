@@ -6,6 +6,398 @@ export default [
         figureId: 1,
         data: [
             {
+                id: '28',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/1-TS%20start.jpg',
+                video: 'https://www.youtube.com/embed/iXwNNGyF4CQ?list=PL7JhOAXjuOP0vuvue88MGWjKEpQYHjlvw',
+                title: 'Chị Út Tịch',
+                description: 'Tên thật là Nguyễn Thị Út, sinh ngày 19/4/1931 tại xã Tam Ngãi, quận Cầu Kè, tỉnh Cần Thơ. Dưới thời...',
+                contents: [
+                    {
+                        title: 'Tiểu sử',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/1-TS%20start.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/BS-3.jpg',
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value: `- Tên thật là Nguyễn Thị Út, sinh ngày 19/4/1931 tại xã Tam Ngãi, quận Cầu Kè, tỉnh Cần Thơ. Dưới thời Mỹ ngụy là xã Tam Ngãi, quận Cầu Kè, tỉnh Vĩnh Bình. Hiện nay là xã Tam Ngãi, huyện Cầu Kè, tỉnh Trà Vinh. Cha là Nguyễn Văn Lương, người làng Tích Thiện, quận Trà Ôn, tỉnh Cần Thơ. Mẹ là bà Lê Thị Mười quê xã Tam Ngãi, quận Cầu Kè. Chị em của Nguyễn Thị Út lần lượt là Nguyễn Thị Keo, tức chị Hai Keo và Nguyễn Thị Cao, tức chị Ba Cao. Cha và mẹ của chị út ở đợ cho địa chủ Hàm Giỏi. Vì thế, 3 chị em của chị được sinh ra và lớn lên trong nhà địa chủ Hàm Giỏi. Phận tôi tớ cứ gắn liền với gia đình của chị . Trong ba chị em, Út là đứa “rắn mắt”, cứng cỏi và gan dạ nhất. Năm 12 tuổi, Nguyễn Thị Út đã dám đánh trả lại địa chủ. Cụ thể là ném dao cau vào tay vợ Hàm Giỏi, ném ớt bột vào mắt vợ Hội đồng Thanh. Hành động ấy, khí chất ấy tuy rất hồn nhiên và tự phát của tuổi thơ ngây nhưng cũng dự báo một tính cách anh hùng quả cảm của chị Nguyễn Thị Út sau này.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'tu hành giáo lý',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/2.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value: `- Năm 1944, cha chị qua đời, khi ấy chị chỉ mới 13 tuổi. Sau đó, chị em út tịch được gia đình đồng chí Nguyễn Hòa Luông - cán bộ Việt Minh xã Tam Ngãi, theo yêu cầu của chi bộ Đảng địa phương, đã đem tiền chuộc lại tự do. Từ đây, cuộc đời ở đợ của bà đã chấm dứt. Đầu năm 1950, Nguyễn Thị Út xây dựng gia đình với Lâm Văn Tịch, ông là người Việt gốc Khmer, cũng là chiến sĩ trong lực lượng vũ trang địa phương và sau đó chị sinh được 9 người con kể cả trong thời gian chị hoạt động cách mạng. Người con đầu mất sớm chưa kịp đặt tên. Đứa con thứ hai của chị là Lâm Thị Bé sinh năm 1953, còn gọi là Bé Ba. Đứa con thứ ba là Lâm Thị Thanh, hay còn gọi là Lâm Thị Mỹ Thanh. Đứa con thứ tư là Lâm Thị Thơ.  Người con thứ năm là Lâm Thị Kim Anh (1959). Người con thứ sáu là Lâm Văn Hiển sinh năm 1961, còn gọi là Bảy Hiển. Người con thứ bảy là Lâm Văn Hùng sinh năm 1964, còn gọi là Lâm Thanh Hùng. Tiếp đó là bà Lâm Thị Đồng Xuân sinh năm 1965. Người con cuối cùng là Lâm Thị Hồng, sinh năm 1968, còn gọi là Lâm Thị Xuân Hồng, ra đời trước khi mẹ mất chỉ 14 ngày.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'tu hành giáo lý',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/2.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Sự nghiệp kháng chiến',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/10.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/12.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/15.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/18.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/19.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/30.jpg',
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Tháng 9 năm 1945, sau Cách mạng tháng Tám thành công, thực dân Pháp xâm lược nước ta lần thứ hai. Nguyễn Thị Út đã đến với cách mạng, với kháng chiến thật đơn giản, như câu nói của bà “Còn cái lai quần cũng đánh”. Nguyễn Thị Út tham gia công tác trinh sát, liên lạc cho đơn vị công an xung phong Cầu Kè, do đồng chí Nguyễn Hòa Luông làm Chỉ huy trưởng. Chị theo dõi, nắm vững tình hình địch, báo tin kịp thời với lực lượng quân sự địa phương và bộ đội chủ lực để phối hợp tác chiến đó là trận Rạch Cách, trận bót Bến Cát, gây nhiều tổn thất cho địch. Chị hoàn thành nhiệm vụ trao kế hoạch của chú Chín Luông cho cơ sở bí mật để tổ chức cứu một đồng chí lãnh đạo Ban binh vận tỉnh bị bắt, bí mật đưa vũ khí qua Cầu Kè cho anh em giết tên quận Hùm khét tiếng ác ôn lúc bấy giờ. `,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'phong trào',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/8-SNKC%20start.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Tình hình chiến trường Cầu Kè lúc này quá căng thẳng, chú Chín Luông và một số anh em khác hy sinh. Bị giặc lùng ráo riết, chị phải bồng con qua Sa Đéc lánh mặt. Tại đây, chị bắt liên lạc với cơ sở nội tuyến, cùng đồng đội đi phá cầu, lấy bót Cây Châu.Tình hình bớt căng thẳng, chị lại bồng con về Tam Ngãi.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'phong trào',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/9.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Sau Hiệp định Giơ-ne-vơ năm 1954, lực lượng vũ trang cách mạng miền Nam tập kết ra miền Bắc, quân Mỹ tổ chức các chiến dịch "Tố cộng", "Diệt cộng" nhằm khủng bố, đàn áp cán bộ đảng viên được phân công ở lại miền Nam và cả những người có liên quan đến cuộc kháng chiến chống Pháp. Gia đình chị Út Tịch phải tạm lánh sang Kế Sách (Sóc Trăng).`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'hội ủng hộ',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/11.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Năm 1959 đến năm 1960, gia đình chị Út Tịch quay về Tam Ngãi, tiếp tục công tác ở địa phương. Sau phong trào Đồng Khởi, vợ chồng Út Tịch đều tham gia vào lực lượng du kích xã. Bà nuôi 4 đứa con lần lượt ra đời, vừa làm công tác trinh sát, theo dõi tình hình hoạt động của địch.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'đoàn kết',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/13.jpg',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'Hội nghị',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/14.jpg',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'giải phóng',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/BS-2.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Cũng năm 1960, bằng phương pháp binh vận, chị tham gia lấy đồn Tám Thế mà không tốn một viên đạn. Chị Út Tịch trực tiếp họp bàn tác chiến và tham gia các trận đánh nổi tiếng như; trận lấy đồn Tám Thế, trận phục kích trên lộ Chông Nô 3, trận phá ấp chiến lược Chông Nô 2, vân vân, Chị còn tham gia công tác binh vận, kêu gọi binh lính địch đào ngũ, tham gia cách mạng. Ở Xã đội Tam Ngãi, trung đội du kích nam do anh Lâm Văn Tịch chỉ huy, tiểu đội du kích nữ do chị Nguyễn Thị Út chỉ huy, vừa thi đua, vừa hỗ trợ nhau trong chiến đấu.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'công tác',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/16.jpg',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'am hiểu sâu rộng',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/17.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Tháng 5/1964, chị Út Tịch được Mặt trận Dân tộc Giải phóng tỉnh Trà Vinh tuyên dương thành tích và giữ chức vụ là xã đội phó xã Tam Ngãi được tặng 1 cây cạc bin và 15m vải. Vợ chồng chị được nhân dân trong vùng gọi thân thương “anh bá đỏ chị cạc bin”. `,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'vận động',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/20.jpg',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'lễ Phật',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/21.jpg',
+                                        }
+                                    },
+                                    
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Cùng năm, chị tham gia chặn đánh một trung đoàn giặc đổ bộ vào ấp Tân Dinh. Quân ta thắng lớn. Thế là Tam Ngãi được giải phóng. Với thành tích chiến đấu dũng cảm và quên mình, chị được kết nạp vào Đảng.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'Sóc Trăng',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/22.jpg',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'vận động quần chúng',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/23.jpg',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'phong trào cách mạng',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/24.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Tháng 7/1964, lực lượng du kích xã Tam Ngãi đánh bót Bà Mi, Thạnh Phú, trong khi chị đang có thai lần thứ sáu.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'công tác',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/25.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Năm 1965, Tỉnh đội Trà Vinh về phối hợp cùng địa phương quân Cầu Kè và lực lượng du kích Tam Ngãi tiến công căn cứ quân sự địch tại Bà Mi. Dù mới sinh con được ba ngày nhưng chị Út vẫn cương quyết ra trận, rồi lâm vào trận sốt mê man phải đưa về quân y điều trị. Khi lành bệnh, khi đứa con tròn tháng tuổi, chị đã có mặt góp sức tiêu diệt căn cứ Bà Mi. Trận này, ta đánh thiệt hại nặng một tiểu đoàn chủ lực địch, diệt tại trận 01 tên và bắt sống 01 tên cố vấn Mỹ.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'Khmer vận',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/26.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Tháng 4/1965, Mỹ dùng trực thăng đưa quân và 4 cố vấn xuống thị trấn Cầu Kè, liên tục bắn phá Tam Ngãi. Chị Nguyễn Thị Út cải trang ra thị trấn, tổ chức anh Năm người Khmer tiếp cận và điều tra. Nhờ đó, đạn cối của ta đã tiêu diệt được 2 khẩu pháo của địch.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'giải phóng',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/27.jpg',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'Ủy ban Trung ương',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/28.png',
+                                        }
+                                    },
+                                    {
+                                        hightlight: 'đại biểu Quốc hội',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/29.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Năm 1965, chị được cử đi dự Đại hội anh hùng Chiến sĩ thi đua lực lượng vũ trang toàn miền Nam và được bầu là nữ Anh hùng Lực lượng vũ trang giải phóng miền Nam, được Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam tặng thưởng Huân chương giải phóng hạng Nhì với thành tích: “Đã tham gia 23 trận lớn nhỏ góp phần quan trọng cùng đơn vị diệt và làm tan rã trên 200 giặc, thu 70 súng. Đồng chí là một chiến sĩ trinh sát dũng cảm và mưu trí, một chiến đấu viên ngoan cường, một chiến sĩ binh vận tài tình đã vận động phá vỡ nhiều binh sĩ địch, nhiều lần đưa bộ đội vào diệt bót lấy súng không tốn một viên đạn”.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'nghỉ hưu',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/31-SNKC%20end.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Năm 1966, chị Nguyễn Thị Út được chuyển công tác về Ban Dân quân Quân khu 9.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'nghỉ hưu',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/31-SNKC%20end.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                            {
+                                type: 'hightlight',
+                                value:`- Ngày 27/11/1968, trong một trận công kích bằng máy bay B52 của Mỹ xuống vùng Vĩnh Thuận, tỉnh Kiên Giang nơi chị Nguyễn Thị Út đi công tác cùng với người con là Lâm Thị Thoa và chị đã hy sinh cùng người con.`,
+                                hightlightList: [
+                                    {
+                                        hightlight: 'nghỉ hưu',
+                                        valueModal: {
+                                            type: 'image',
+                                            value:   'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/31-SNKC%20end.jpg',
+                                        }
+                                    },
+                                ],
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Nguồn cảm hứng cho nghệ thuật',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/32-TT%20start.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/33.png',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/34.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/35.png',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/36.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/37-TT%20end.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Cuộc đời vừa nuôi con vừa đánh giặc của nữ anh hùng Nguyễn Thị Út được nhà văn Nguyễn Đình Thi tái hiện trung thực và sáng tạo. Chị là nguyên mẫu cho nhân vật chính trong tác phẩm “Người mẹ cầm súng”.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- "Mẹ vắng nhà" là bộ phim nhựa sản xuất năm 1979, dựa trên truyện ngắn "Người mẹ cầm súng" và "Mẹ vắng nhà" của nhà văn Nguyễn Thi. Phim lấy cảm hứng từ cuộc đời của nữ anh hùng lực lượng Vũ trang Nhân dân Việt Nam Út Tịch và năm người con của chị.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Bà được nhạc sĩ Phan Nhân sử dụng để sáng tác bài hát thiếu nhi "Em là con gái má Út Tịch"`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Những mẫu chuyện về Chị',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/32-TT%20start.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/33.png',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/34.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/35.png',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/36.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/37-TT%20end.jpg',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `* Chị Út Tịch qua lời kể anh Thanh Hiển - người con thứ 5 của chị:`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Anh Hiển - con của má Út Tịch kể lại : Má tui thường để cho con ngủ say vùi nửa đêm, mới lén xuống vỏ lãi chạy đi đánh giặc.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `- “Kỷ niệm sâu sắc nhất về má trong đời tôi cũng là kỷ niệm cuối cùng mà không bao giờ tôi quên được: Lần đó, hai má con ngủ chung đến nửa đêm, má lén dậy hun tui một cái rồi nhẹ nhàng lấy đai thắt lưng, cắp súng nhảy xuống vỏ lãi. Tôi tỉnh dậy, chạy băng băng theo bờ kinh đón đầu. Đến cây cầu khỉ, tui nắm hai tay vào thanh cầu, thả người thòng xuống kinh, thế nào má tui thấy cũng dừng lại. `,
+                            },
+                            {
+                                type: 'text',
+                                value: `- Quả nhiên khi vỏ lãi băng qua, nghe tiếng khóc kêu của con trai, Út Tịch dừng lại, bế con chạy quay trở lại nhà. Hai mẹ con ôm nhau khóc suốt, rồi  dỗ dành, năn nỉ con ngủ để mẹ đi đánh giặc, mấy hôm lại về. Ai ngờ đó cũng là lần cuối cùng, mẹ ra đi vĩnh viễn không bao giờ về nữa…” kể đến đây, đôi mắt của Hiển đỏ hoe.`,
+                            },
+
+                            {
+                                type: 'text',
+                                value: `* Những câu nói nổi tiếng của chị:`,
+                            },
+                            {
+                                type: 'text',
+                                value: `-Không những quả cảm, anh dũng trong chiến đấu, những câu nói của chị còn truyền cảm hứng yêu nước, thể hiện ý chí hào hùng, bất khuất như: “Còn cái lai quần cũng đánh”, “Nó đánh mình, mình đánh nó”, “Có ai đánh giặc mà chờ sinh xong mới đánh, con gà mái là con gà giò. Cứ đánh!”, “Đánh giặc sướng bằng tiên chứ cực gì”. Chủ tịch Hồ Chí Minh cũng từng rất tự hào khi nói: “...Miền Nam anh hùng có đội quân đấu tranh chính trị gồm hàng vạn chiến sĩ toàn là phụ nữ. Họ rất mưu trí làm cho địch phải khiếp sợ vì gọi họ là “Đội quân tóc dài…”. Chị Út Tịch - một tấm gương tiêu biểu của người phụ nữ Việt Nam giỏi việc nước, đảm việc nhà thật xứng đáng với tám chữ vàng: “Anh hùng - Bất khuất - Trung hậu - Đảm đang”.`,
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Tưởng nhớ',
+                        data: [
+                            {
+                                type: 'grid-image',
+                                value: [
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/S%C6%A1n%20Th%C3%B4ng/38-TN.png',
+                                ],
+                            },
+                            {
+                                type: 'text',
+                                value: `- Hiện nay có con đường mang tên đường Út Tịch nằm ở quận Tân Bình thuộc Thành phố Hồ Chí Minh và con đường mang tên Nguyễn Thị Út thuộc phường Tân Đông Hiệp, thành phố Dĩ An, tỉnh Bình Dương.`,
+                            },
+                            {
+                                type: 'text',
+                                value: `-  Khu tưởng niệm nữ Anh hùng liệt sĩ Nguyễn Thị Út hay còn gọi là Út Tịch được xây dựng tại xã Tam Ngãi, huyện Cầu Kè, tỉnh Trà Vinh. Biểu tượng “Người mẹ cầm súng” được đặt ở vị trí trung tâm của Khu tưởng niệm, tái hiện lại hình ảnh chị Út căn dặn hai người con ở nhà chăm sóc đàn em để chị yên tâm lên đường chiến đấu.`,
+                            },
+                        ],
+                    },
+                ],
+        
+                tags: [
+                    {
+                        id: 1,
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                    {
+                        title: 'Mua ngay',
+                        link: 'https://www.facebook.com/Chinhhocvietnam',
+                    },
+                ],
+            },
+            {
                 id: '1',
                 imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/nh%C3%A2n%20v%E1%BA%ADt/Nguy%E1%BB%85n%20V%C4%83n%20T%E1%BB%93n/1.jpg',
                 video: 'https://www.youtube.com/embed/eezu7le4Js4?list=PL7JhOAXjuOP0vuvue88MGWjKEpQYHjlvw',
@@ -1441,6 +1833,7 @@ export default [
                     },
                 ],
             },
+
         ]
     },
     {
@@ -4515,7 +4908,7 @@ export default [
         data: [
             {
                 id: '22',
-                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-1-1.jpg',
                 video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
                 title: 'Tục thờ Quan Thánh đế',
                 description: 'Quan Thánh đế chính là Quan Công, tức Quan Vũ hay Quan Vân Trường – viên tướng văn võ song toàn,...',
@@ -4530,7 +4923,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-1-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-1-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-1-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-1-4.jpg',
                                 ],
                             },
                             {
@@ -4545,7 +4941,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-2-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/I-2-4.jpg',
                                 ],
                             },
                             {
@@ -4560,7 +4959,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/II-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/II-2.jpg',
                                 ],
                             },
                             {
@@ -4575,7 +4975,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20Quan%20th%C3%A1nh%20%C4%91%E1%BA%BF/III-2.jpg',
                                 ],
                             },
                             {
@@ -4606,7 +5007,7 @@ export default [
             },
             {
                 id: '23',
-                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/I-1.jpg',
                 video: 'https://www.youtube.com/embed/Q3BrfMOITkE?list=PLO4xYQBA1oxVDRzXzjLUPhnlEC5JMx628',
                 title: 'Tục thờ cá Ông',
                 description: 'Thờ cúng cá Ông (cá Voi) là tín ngưỡng đặc thù của ngư dân miền biển nói chung và ngư dân ở Trà Vinh ...',
@@ -4617,9 +5018,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/I-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/I-2.jpg',
                                 ],
                             },
                             {
@@ -4634,9 +5034,12 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/II-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/II-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/II-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/II-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/II-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/II-6.jpg',
                                 ],
                             },
                             {
@@ -4655,9 +5058,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/III-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/III-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/III-4.jpg',
                                 ],
                             },
                             {
@@ -4672,9 +5076,7 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-1.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-2.jpeg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20Py-sey%20Va-ra-ram/ch%C3%B9a%20pasy-3.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20th%E1%BB%9D%20c%C3%A1%20%C3%94ng/IV-1.jpg',
                                 ],
                             },
                             {
@@ -4706,7 +5108,7 @@ export default [
             },
             {
                 id: '24',
-                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-1-2.jpg',
                 video: 'https://www.youtube.com/embed/lEnyxytD8kU?list=PLO4xYQBA1oxVCO7kROjhPy_Y2QU7Yep49',
                 title: 'Tục tu trả hiếu',
                 description: 'Tục đi tu báo hiếu của người Khmer ở Trà Vinh là một truyền thống lâu đời, mang đậm nét văn hóa và giá ...',
@@ -4721,11 +5123,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-1-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-1-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-1-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-1-4.jpg',
                                 ],
                             },
                             {
@@ -4740,11 +5141,12 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-2-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-2-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-2-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-2-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-2-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/I-2-6.jpg',
                                 ],
                             },
                             {
@@ -4763,11 +5165,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/II-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/II-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/II-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/II-4.jpg',
                                 ],
                             },
                             {
@@ -4782,11 +5183,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-1.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2%20-2.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-3.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2-4.jpg',
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20C%C3%B2/ch%C3%B9a%20c%C3%B2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/Phong%20t%E1%BB%A5c/T%E1%BB%A5c%20tu%20tr%E1%BA%A3%20hi%E1%BA%BFu/III-2.jpg',
                                 ],
                             },
                             {
@@ -4815,10 +5213,10 @@ export default [
         data: [
             {
                 id: '25',
-                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/I-dan%20toc-1.jpg',
                 video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
                 title: 'Người Kinh',
-                description: ' Dân cư: Dân tộc Kinh có 683 803 người, chiếm 67,76% dân số toàn tỉnh. Người Kinh sống tập trung...',
+                description: 'Dân cư: Dân tộc Kinh có 683 803 người, chiếm 67,76% dân số toàn tỉnh. Người Kinh sống tập trung...',
                 contents: [
                     {
                         title: 'Dân cư và nhà ở',
@@ -4830,7 +5228,7 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/I-dan%20toc-1.jpg',
                                 ],
                             },
                             {
@@ -4845,7 +5243,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/I-nhao-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/I-nhao-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/I-nhao-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/I-nha%20o-4.jpg',
                                 ],
                             },
                             {
@@ -4864,7 +5265,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-amthuc-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-amthuc-2.jpg',
                                 ],
                             },
                             {
@@ -4891,7 +5293,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-trangphuc-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-trangphuc-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-trangphuc-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-trangphuc-4.jpg',
                                 ],
                             },
                             {
@@ -4906,7 +5311,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-tongiao-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-tongiao-2.jpg',
                                 ],
                             },
                             {
@@ -4921,7 +5327,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-lehoi-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-lehoi-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-lehoi-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/II-lehoi-4.jpg',
                                 ],
                             },
                             {
@@ -4940,7 +5349,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/III-honnhan-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/III-honnhan-2.jpg',
                                 ],
                             },
                             {
@@ -4955,7 +5365,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/III-kinhte-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/III-kinhte-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/III-kinhte-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Kinh/III-kinhte-4.jpg',
                                 ],
                             },
                             {
@@ -4986,7 +5399,7 @@ export default [
             },
             {
                 id: '26',
-                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                imageCover: 'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-trangphuc-2.jpg',
                 video: 'https://www.youtube.com/embed/dFOMacW2sqw?list=PLO4xYQBA1oxWIkVTOcy5cPvi4Jxyfgp75',
                 title: 'Người Khmer',
                 description: ' Dân cư: Dân tộc Khmer có 318 231 người, chiếm hơn 31,5% dân số toàn tỉnh. Người Khmer sống tập ...',
@@ -5001,7 +5414,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/I-dancu-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/I-dancu-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/I-dancu-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/I-dancu-4.jpg',
                                 ],
                             },
                             {
@@ -5016,7 +5432,8 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/I-giaoduc-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/I-giaoduc-2.jpg',
                                 ],
                             },
                             {
@@ -5027,12 +5444,6 @@ export default [
                             {
                                 type: 'text',
                                 value: `* Nhà ở:`,
-                            },
-                            {
-                                type: 'grid-image',
-                                value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
-                                ],
                             },
                             {
                                 type: 'text',
@@ -5050,7 +5461,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-amthuc-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-amthuc-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-amthuc-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-amthuc-4.jpg',
                                 ],
                             },
                             {
@@ -5069,7 +5483,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-trangphuc-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-trangphuc-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-trangphuc-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-trangphuc-4.jpg',
                                 ],
                             },
                             {
@@ -5080,12 +5497,6 @@ export default [
                             {
                                 type: 'text',
                                 value: `* Tôn giáo, tín ngưỡng:`,
-                            },
-                            {
-                                type: 'grid-image',
-                                value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
-                                ],
                             },
                             {
                                 type : 'text',
@@ -5103,7 +5514,12 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-lehoi-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-lehoi-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-lehoi-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-lehoi-4.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-lehoi-5.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/II-lehoi-6.jpg',
                                 ],
                             },
                             {
@@ -5130,7 +5546,10 @@ export default [
                             {
                                 type: 'grid-image',
                                 value: [
-                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/ch%C3%B9a/Ch%C3%B9a%20%C3%82ng/ch%C3%B9a%20%C3%A2ng-1.jpeg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/III-1.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/III-2.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/III-3.jpg',
+                                    'https://raw.githubusercontent.com/thansouuu/data-image/main/D%C3%A2n%20t%E1%BB%99c/Ng%C6%B0%E1%BB%9Di%20Khmer/III-4.jpg',
                                 ],
                             },
                             {
